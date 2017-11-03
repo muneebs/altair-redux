@@ -1,0 +1,35 @@
+{
+  "presets": [
+    "react",
+    "env",
+    "flow"
+  ],
+  "plugins": [
+    "lodash",
+    "add-module-exports",
+    "transform-object-rest-spread",
+    "transform-object-assign",
+    "transform-class-properties",
+    ["module-resolver", {
+      "root": ["./src", "."]
+    }]
+  ],
+  "env": {
+    "es": {
+      "comments": false
+    },
+    "commonjs": {
+      "comments": false
+    },
+    "test": {
+      "plugins": [
+        "transform-runtime",
+        "transform-decorators-legacy",
+        "transform-async-to-generator",
+        ["module-resolver", {
+          "root": ["./src", "."]
+        }]
+      ]
+    }
+  }
+}

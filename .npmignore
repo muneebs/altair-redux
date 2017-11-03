@@ -1,0 +1,10 @@
+node_modules/
+.idea
+.eslintrc
+.gitattributes
+.gitignore
+.npmignore
+.npminstall
+.tmp
+.git
+src

@@ -1,0 +1,16 @@
+root: true
+
+parser: babel-eslint
+
+extends: [standard, standard-react]
+plugins: [babel, react]
+
+env:
+  browser: true
+  es6: true
+  jasmine: true
+  node: true
+
+rules:
+  semi: [2, 'never']
+  no-console: 'error'
