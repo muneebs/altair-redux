@@ -66,5 +66,5 @@ const store = configureStore(AsyncStorage, {}, {
 	enableRedirectHandling : false,
 	userProfile : 'users',
 	useFirestoreForProfile : true
-}, { appId: 'ALGOLIA_APP_ID' });
+}, { appId: 'ALGOLIA_APP_ID', searchKey: 'ALGOLIA_SEARCH_KEY' });
 ```
