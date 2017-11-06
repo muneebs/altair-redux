@@ -1,21 +1,32 @@
 {
-  "name": "redblade-redux",
+  "name": "altair-redux",
   "version": "1.0.0",
-  "private": true,
+  "author": "Muneeb Samuels",
+  "description": "Redux for my test application - Altair customer manager",
+  "repository": "https://github.com/muneebs/altair-redux",
+  "license": "MIT",
+  "keywords": [
+    "Customer management",
+    "redux",
+    "react",
+    "es6",
+    "firebase",
+    "firestore"
+  ],
   "main": "lib/index.js",
   "react-native": "lib/index.react-native.js",
   "module": "es/index.js",
   "jsnext:main": "es/index.js",
   "typings": "./index.d.ts",
-  "unpkg": "dist/redblade-redux.min.js",
+  "unpkg": "dist/altair-redux.min.js",
   "dependencies": {
     "immutable": "3.8.1",
     "key-mirror": "^1.0.1",
-    "keymirror": "^0.1.1",
     "lodash": "^4.17.4",
     "uuid": "^3.1.0"
   },
   "peerDependencies": {
+    "algoliasearch": "^3.24.5",
     "firebase": "^4.6.0",
     "geofire": "^4.1.2",
     "react": "16.0.0-alpha.12",
@@ -29,6 +40,7 @@
     "redux-thunk": "^2.2.0"
   },
   "devDependencies": {
+    "algoliasearch": "^3.24.5",
     "babel-cli": "^6.24.0",
     "babel-core": "^6.24.0",
     "babel-eslint": "^7.2.1",
@@ -96,14 +108,8 @@
     "xmlhttprequest": "^1.8.0"
   },
   "lint-staged": {
-    "*.js": [
-      "eslint --no-ignore --fix",
-      "git add"
-    ],
-    "*.json": [
-      "prettier --write",
-      "git add"
-    ]
+    "*.js": ["eslint --no-ignore --fix", "git add"],
+    "*.json": ["prettier --write", "git add"]
   },
   "scripts": {
     "precommit": "lint-staged",
@@ -111,14 +117,19 @@
     "clean": "rimraf es lib dist coverage",
     "lint": "eslint src/** tests/**",
     "lint:fix": "npm run lint -- --fix",
-    "test": "mocha -R spec ./tests/setup.js ./tests/** --recursive --require babel-register",
+    "test":
+      "mocha -R spec ./tests/setup.js ./tests/** --recursive --require babel-register",
     "build:commonjs": "cross-env BABEL_ENV=commonjs babel src --out-dir lib",
     "build:es": "cross-env BABEL_ENV=es babel src --out-dir es",
-    "build:umd": "cross-env BABEL_ENV=commonjs NODE_ENV=development webpack src/index.js dist/redblade-redux.js",
-    "build:umd:min": "cross-env BABEL_ENV=commonjs NODE_ENV=production webpack src/index.js dist/redblade-redux.min.js",
-    "build:size": "cross-env SIZE=true BABEL_ENV=commonjs NODE_ENV=production webpack src/index.js dist/redblade-redux.min.js",
+    "build:umd":
+      "cross-env BABEL_ENV=commonjs NODE_ENV=development webpack src/index.js dist/altair-redux.js",
+    "build:umd:min":
+      "cross-env BABEL_ENV=commonjs NODE_ENV=production webpack src/index.js dist/altair-redux.min.js",
+    "build:size":
+      "cross-env SIZE=true BABEL_ENV=commonjs NODE_ENV=production webpack src/index.js dist/altair-redux.min.js",
     "build:docs": "esdoc",
-    "build": "npm run build:commonjs && npm run build:es && npm run build:umd && npm run build:umd:min && npm run build:docs",
+    "build":
+      "npm run build:commonjs && npm run build:es && npm run build:umd && npm run build:umd:min && npm run build:docs",
     "watch": "npm run build:es -- --watch",
     "prepare": "npm run clean && npm run build"
   }
