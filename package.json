@@ -108,8 +108,10 @@
     "xmlhttprequest": "^1.8.0"
   },
   "lint-staged": {
-    "*.js": ["eslint --no-ignore --fix", "git add"],
-    "*.json": ["prettier --write", "git add"]
+    "src/**/*.js": ["eslint --no-ignore --fix", "git add"],
+    "tests/**/*.js": ["eslint --no-ignore --fix", "git add"],
+    "src/**/*.json": ["prettier --write", "git add"],
+    "tests/**/*.json": ["prettier --write", "git add"]
   },
   "scripts": {
     "precommit": "lint-staged",
