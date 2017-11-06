@@ -447,13 +447,10 @@
                               }
                             },
                             "extra": {
-                              "rawValue":
-                                "keyMirror(...): Argument must be an object.",
-                              "raw":
-                                "'keyMirror(...): Argument must be an object.'"
+                              "rawValue": "keyMirror(...): Argument must be an object.",
+                              "raw": "'keyMirror(...): Argument must be an object.'"
                             },
-                            "value":
-                              "keyMirror(...): Argument must be an object."
+                            "value": "keyMirror(...): Argument must be an object."
                           }
                         ]
                       }
@@ -1016,8 +1013,7 @@
           "leadingComments": [
             {
               "type": "CommentBlock",
-              "value":
-                "*\n * Copyright (c) 2013-present, Facebook, Inc.\n * All rights reserved.\n *\n * This source code is licensed under the BSD-style license found in the\n * LICENSE file in the root directory of this source tree. An additional grant\n * of patent rights can be found in the PATENTS file in the same directory.\n *\n ",
+              "value": "*\n * Copyright (c) 2013-present, Facebook, Inc.\n * All rights reserved.\n *\n * This source code is licensed under the BSD-style license found in the\n * LICENSE file in the root directory of this source tree. An additional grant\n * of patent rights can be found in the PATENTS file in the same directory.\n *\n ",
               "start": 0,
               "end": 311,
               "loc": {
@@ -1033,8 +1029,7 @@
             },
             {
               "type": "CommentBlock",
-              "value":
-                "*\n * Constructs an enumeration with keys equal to their value.\n *\n * For example:\n *\n *   var COLORS = keyMirror({blue: null, red: null});\n *   var myColor = COLORS.blue;\n *   var isColorValid = !!COLORS[myColor];\n *\n * The last line could not be performed if the values of the generated enum were\n * not equal to their keys.\n *\n *   Input:  {key1: val1, key2: val2}\n *   Output: {key1: key1, key2: key2}\n *\n * @param {object} obj\n * @param {string} prefix - optional prefix used in redux actions\n * @return {object}\n ",
+              "value": "*\n * Constructs an enumeration with keys equal to their value.\n *\n * For example:\n *\n *   var COLORS = keyMirror({blue: null, red: null});\n *   var myColor = COLORS.blue;\n *   var isColorValid = !!COLORS[myColor];\n *\n * The last line could not be performed if the values of the generated enum were\n * not equal to their keys.\n *\n *   Input:  {key1: val1, key2: val2}\n *   Output: {key1: key1, key2: key2}\n *\n * @param {object} obj\n * @param {string} prefix - optional prefix used in redux actions\n * @return {object}\n ",
               "start": 313,
               "end": 835,
               "loc": {
@@ -1054,8 +1049,7 @@
         "leadingComments": [
           {
             "type": "CommentBlock",
-            "value":
-              "*\n * Copyright (c) 2013-present, Facebook, Inc.\n * All rights reserved.\n *\n * This source code is licensed under the BSD-style license found in the\n * LICENSE file in the root directory of this source tree. An additional grant\n * of patent rights can be found in the PATENTS file in the same directory.\n *\n ",
+            "value": "*\n * Copyright (c) 2013-present, Facebook, Inc.\n * All rights reserved.\n *\n * This source code is licensed under the BSD-style license found in the\n * LICENSE file in the root directory of this source tree. An additional grant\n * of patent rights can be found in the PATENTS file in the same directory.\n *\n ",
             "start": 0,
             "end": 311,
             "loc": {
@@ -1071,8 +1065,7 @@
           },
           {
             "type": "CommentBlock",
-            "value":
-              "*\n * Constructs an enumeration with keys equal to their value.\n *\n * For example:\n *\n *   var COLORS = keyMirror({blue: null, red: null});\n *   var myColor = COLORS.blue;\n *   var isColorValid = !!COLORS[myColor];\n *\n * The last line could not be performed if the values of the generated enum were\n * not equal to their keys.\n *\n *   Input:  {key1: val1, key2: val2}\n *   Output: {key1: key1, key2: key2}\n *\n * @param {object} obj\n * @param {string} prefix - optional prefix used in redux actions\n * @return {object}\n ",
+            "value": "*\n * Constructs an enumeration with keys equal to their value.\n *\n * For example:\n *\n *   var COLORS = keyMirror({blue: null, red: null});\n *   var myColor = COLORS.blue;\n *   var isColorValid = !!COLORS[myColor];\n *\n * The last line could not be performed if the values of the generated enum were\n * not equal to their keys.\n *\n *   Input:  {key1: val1, key2: val2}\n *   Output: {key1: key1, key2: key2}\n *\n * @param {object} obj\n * @param {string} prefix - optional prefix used in redux actions\n * @return {object}\n ",
             "start": 313,
             "end": 835,
             "loc": {
@@ -1094,8 +1087,7 @@
   "comments": [
     {
       "type": "CommentBlock",
-      "value":
-        "*\n * Copyright (c) 2013-present, Facebook, Inc.\n * All rights reserved.\n *\n * This source code is licensed under the BSD-style license found in the\n * LICENSE file in the root directory of this source tree. An additional grant\n * of patent rights can be found in the PATENTS file in the same directory.\n *\n ",
+      "value": "*\n * Copyright (c) 2013-present, Facebook, Inc.\n * All rights reserved.\n *\n * This source code is licensed under the BSD-style license found in the\n * LICENSE file in the root directory of this source tree. An additional grant\n * of patent rights can be found in the PATENTS file in the same directory.\n *\n ",
       "start": 0,
       "end": 311,
       "loc": {
@@ -1111,8 +1103,7 @@
     },
     {
       "type": "CommentBlock",
-      "value":
-        "*\n * Constructs an enumeration with keys equal to their value.\n *\n * For example:\n *\n *   var COLORS = keyMirror({blue: null, red: null});\n *   var myColor = COLORS.blue;\n *   var isColorValid = !!COLORS[myColor];\n *\n * The last line could not be performed if the values of the generated enum were\n * not equal to their keys.\n *\n *   Input:  {key1: val1, key2: val2}\n *   Output: {key1: key1, key2: key2}\n *\n * @param {object} obj\n * @param {string} prefix - optional prefix used in redux actions\n * @return {object}\n ",
+      "value": "*\n * Constructs an enumeration with keys equal to their value.\n *\n * For example:\n *\n *   var COLORS = keyMirror({blue: null, red: null});\n *   var myColor = COLORS.blue;\n *   var isColorValid = !!COLORS[myColor];\n *\n * The last line could not be performed if the values of the generated enum were\n * not equal to their keys.\n *\n *   Input:  {key1: val1, key2: val2}\n *   Output: {key1: key1, key2: key2}\n *\n * @param {object} obj\n * @param {string} prefix - optional prefix used in redux actions\n * @return {object}\n ",
       "start": 313,
       "end": 835,
       "loc": {
@@ -1130,8 +1121,7 @@
   "tokens": [
     {
       "type": "CommentBlock",
-      "value":
-        "*\n * Copyright (c) 2013-present, Facebook, Inc.\n * All rights reserved.\n *\n * This source code is licensed under the BSD-style license found in the\n * LICENSE file in the root directory of this source tree. An additional grant\n * of patent rights can be found in the PATENTS file in the same directory.\n *\n ",
+      "value": "*\n * Copyright (c) 2013-present, Facebook, Inc.\n * All rights reserved.\n *\n * This source code is licensed under the BSD-style license found in the\n * LICENSE file in the root directory of this source tree. An additional grant\n * of patent rights can be found in the PATENTS file in the same directory.\n *\n ",
       "start": 0,
       "end": 311,
       "loc": {
@@ -1147,8 +1137,7 @@
     },
     {
       "type": "CommentBlock",
-      "value":
-        "*\n * Constructs an enumeration with keys equal to their value.\n *\n * For example:\n *\n *   var COLORS = keyMirror({blue: null, red: null});\n *   var myColor = COLORS.blue;\n *   var isColorValid = !!COLORS[myColor];\n *\n * The last line could not be performed if the values of the generated enum were\n * not equal to their keys.\n *\n *   Input:  {key1: val1, key2: val2}\n *   Output: {key1: key1, key2: key2}\n *\n * @param {object} obj\n * @param {string} prefix - optional prefix used in redux actions\n * @return {object}\n ",
+      "value": "*\n * Constructs an enumeration with keys equal to their value.\n *\n * For example:\n *\n *   var COLORS = keyMirror({blue: null, red: null});\n *   var myColor = COLORS.blue;\n *   var isColorValid = !!COLORS[myColor];\n *\n * The last line could not be performed if the values of the generated enum were\n * not equal to their keys.\n *\n *   Input:  {key1: val1, key2: val2}\n *   Output: {key1: key1, key2: key2}\n *\n * @param {object} obj\n * @param {string} prefix - optional prefix used in redux actions\n * @return {object}\n ",
       "start": 313,
       "end": 835,
       "loc": {

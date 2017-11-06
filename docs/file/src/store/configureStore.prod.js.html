@@ -66,6 +66,7 @@ import &apos;firebase/firestore&apos;
 import { getFirebase, reactReduxFirebase } from &apos;react-redux-firebase&apos;
 import { reduxFirestore } from &apos;redux-firestore&apos;
 import { AppActions } from &apos;actions&apos;
+import Config from &apos;Config&apos;
 
 // create the saga middleware
 const sagaMiddleware = createSagaMiddleware({
@@ -92,12 +93,21 @@ function createReducer (...reducers) {
  * @param {Object} storage - redux-persist storage
  * @param {Object} firebaseConfig - firebase configuration
  * @param {Object} rrfConfig - react-redux-firebase config
+ * @param {Object} algoliaConfig - optional algolia configuration
  * @param {Object} appReducer - optional appReducer
  * @return {Object} store
  */
-export function configureStore (storage, firebaseConfig, rrfConfig, appReducer) {
+export function configureStore (storage, firebaseConfig, rrfConfig, algoliaConfig = {}, appReducer) {
   firebase.initializeApp(firebaseConfig)
   firebase.firestore()
+
+  // allow the firestore to work offline
+  firebase.firestore().enablePersistence()
+
+  Config.config = {
+    algolia: algoliaConfig,
+    firebase: firebaseConfig
+  }
 
   const store = createStore(createReducer(serviceReducer, appReducer),
     // eslint-disable-next-line no-undefined
@@ -105,11 +115,11 @@ export function configureStore (storage, firebaseConfig, rrfConfig, appReducer) 
     compose(
       reactReduxFirebase(firebase, rrfConfig),
       reduxFirestore(firebase),
-      applyMiddleware(...middleware),
-      autoRehydrate({log: false})
+      autoRehydrate({log: false}),
+      applyMiddleware(...middleware)
     )
   )
-  persistStore(store, {storage: storage})
+  persistStore(store, {storage: storage, blacklist: [&apos;requests&apos;]})
   store.dispatch(AppActions.appInitStarted())
   return store
 }

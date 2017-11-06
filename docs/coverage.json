@@ -6,12 +6,17 @@
     "src/actions/app.js": {
       "expectCount": 2,
       "actualCount": 0,
-      "undocumentLines": [7, 13]
+      "undocumentLines": [
+        7,
+        13
+      ]
     },
     "src/reducers/entities/search.js": {
       "expectCount": 1,
       "actualCount": 0,
-      "undocumentLines": [8]
+      "undocumentLines": [
+        8
+      ]
     },
     "src/reducers/requests/customers.js": {
       "expectCount": 3,
@@ -21,7 +26,9 @@
     "src/reducers/requests/search.js": {
       "expectCount": 1,
       "actualCount": 0,
-      "undocumentLines": [10]
+      "undocumentLines": [
+        10
+      ]
     },
     "src/reducers/requests/user.js": {
       "expectCount": 3,
@@ -31,42 +38,75 @@
     "src/sagas/customer/index.js": {
       "expectCount": 4,
       "actualCount": 0,
-      "undocumentLines": [9, 13, 17, 21]
+      "undocumentLines": [
+        9,
+        13,
+        17,
+        21
+      ]
     },
     "src/sagas/index.js": {
       "expectCount": 1,
       "actualCount": 0,
-      "undocumentLines": [10]
+      "undocumentLines": [
+        10
+      ]
     },
     "src/sagas/search/index.js": {
       "expectCount": 2,
       "actualCount": 0,
-      "undocumentLines": [9, 13]
+      "undocumentLines": [
+        9,
+        13
+      ]
     },
     "src/sagas/search/tasks.js": {
       "expectCount": 1,
       "actualCount": 0,
-      "undocumentLines": [10]
+      "undocumentLines": [
+        10
+      ]
     },
     "src/sagas/user/index.js": {
       "expectCount": 5,
       "actualCount": 0,
-      "undocumentLines": [9, 13, 17, 21, 25]
+      "undocumentLines": [
+        9,
+        13,
+        17,
+        21,
+        25
+      ]
     },
     "src/sagas/user/tasks.js": {
       "expectCount": 5,
       "actualCount": 0,
-      "undocumentLines": [11, 35, 44, 57, 66]
+      "undocumentLines": [
+        11,
+        35,
+        44,
+        57,
+        66
+      ]
     },
     "src/store/configureStore.dev.js": {
       "expectCount": 5,
       "actualCount": 1,
-      "undocumentLines": [20, 31, 39, 23]
+      "undocumentLines": [
+        20,
+        31,
+        39,
+        23
+      ]
     },
     "src/store/configureStore.prod.js": {
       "expectCount": 4,
       "actualCount": 1,
-      "undocumentLines": [27, 34, 19]
+      "undocumentLines": [
+        28,
+        35,
+        20
+      ]
     },
     "src/utils/key_mirror.js": {
       "expectCount": 1,

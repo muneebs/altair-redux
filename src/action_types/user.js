@@ -23,4 +23,4 @@ export default keyMirror({
 
   RECEIVED_ME: null,
   RECEIVED_SEARCH_KEY: null
-}, '@@redblade-redux/')
+}, '@@altair-redux/')

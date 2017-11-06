@@ -11,4 +11,4 @@ export default keyMirror({
 
   CLEAR_CUSTOMER_SEARCH_RESULTS: null,
   RECEIVED_SEARCH_CUSTOMERS: null
-}, '@@redblade-redux/')
+}, '@@altair-redux/')

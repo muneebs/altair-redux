@@ -3,8 +3,7 @@
     "__docId__": 1,
     "kind": "external",
     "name": "Infinity",
-    "externalLink":
-      "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Infinity",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Infinity",
     "memberof": "src/.external-ecmascript.js",
     "static": true,
     "longname": "src/.external-ecmascript.js~Infinity",
@@ -16,8 +15,7 @@
     "__docId__": 2,
     "kind": "external",
     "name": "NaN",
-    "externalLink":
-      "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/NaN",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/NaN",
     "memberof": "src/.external-ecmascript.js",
     "static": true,
     "longname": "src/.external-ecmascript.js~NaN",
@@ -29,8 +27,7 @@
     "__docId__": 3,
     "kind": "external",
     "name": "undefined",
-    "externalLink":
-      "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/undefined",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/undefined",
     "memberof": "src/.external-ecmascript.js",
     "static": true,
     "longname": "src/.external-ecmascript.js~undefined",
@@ -42,8 +39,7 @@
     "__docId__": 4,
     "kind": "external",
     "name": "null",
-    "externalLink":
-      "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/null",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/null",
     "memberof": "src/.external-ecmascript.js",
     "static": true,
     "longname": "src/.external-ecmascript.js~null",
@@ -55,8 +51,7 @@
     "__docId__": 5,
     "kind": "external",
     "name": "Object",
-    "externalLink":
-      "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object",
     "memberof": "src/.external-ecmascript.js",
     "static": true,
     "longname": "src/.external-ecmascript.js~Object",
@@ -68,8 +63,7 @@
     "__docId__": 6,
     "kind": "external",
     "name": "object",
-    "externalLink":
-      "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object",
     "memberof": "src/.external-ecmascript.js",
     "static": true,
     "longname": "src/.external-ecmascript.js~object",
@@ -81,8 +75,7 @@
     "__docId__": 7,
     "kind": "external",
     "name": "Function",
-    "externalLink":
-      "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function",
     "memberof": "src/.external-ecmascript.js",
     "static": true,
     "longname": "src/.external-ecmascript.js~Function",
@@ -94,8 +87,7 @@
     "__docId__": 8,
     "kind": "external",
     "name": "function",
-    "externalLink":
-      "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function",
     "memberof": "src/.external-ecmascript.js",
     "static": true,
     "longname": "src/.external-ecmascript.js~function",
@@ -107,8 +99,7 @@
     "__docId__": 9,
     "kind": "external",
     "name": "Boolean",
-    "externalLink":
-      "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Boolean",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Boolean",
     "memberof": "src/.external-ecmascript.js",
     "static": true,
     "longname": "src/.external-ecmascript.js~Boolean",
@@ -120,8 +111,7 @@
     "__docId__": 10,
     "kind": "external",
     "name": "boolean",
-    "externalLink":
-      "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Boolean",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Boolean",
     "memberof": "src/.external-ecmascript.js",
     "static": true,
     "longname": "src/.external-ecmascript.js~boolean",
@@ -133,8 +123,7 @@
     "__docId__": 11,
     "kind": "external",
     "name": "Symbol",
-    "externalLink":
-      "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Symbol",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Symbol",
     "memberof": "src/.external-ecmascript.js",
     "static": true,
     "longname": "src/.external-ecmascript.js~Symbol",
@@ -146,8 +135,7 @@
     "__docId__": 12,
     "kind": "external",
     "name": "Error",
-    "externalLink":
-      "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Error",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Error",
     "memberof": "src/.external-ecmascript.js",
     "static": true,
     "longname": "src/.external-ecmascript.js~Error",
@@ -159,8 +147,7 @@
     "__docId__": 13,
     "kind": "external",
     "name": "EvalError",
-    "externalLink":
-      "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/EvalError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/EvalError",
     "memberof": "src/.external-ecmascript.js",
     "static": true,
     "longname": "src/.external-ecmascript.js~EvalError",
@@ -172,8 +159,7 @@
     "__docId__": 14,
     "kind": "external",
     "name": "InternalError",
-    "externalLink":
-      "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/InternalError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/InternalError",
     "memberof": "src/.external-ecmascript.js",
     "static": true,
     "longname": "src/.external-ecmascript.js~InternalError",
@@ -185,8 +171,7 @@
     "__docId__": 15,
     "kind": "external",
     "name": "RangeError",
-    "externalLink":
-      "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RangeError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RangeError",
     "memberof": "src/.external-ecmascript.js",
     "static": true,
     "longname": "src/.external-ecmascript.js~RangeError",
@@ -198,8 +183,7 @@
     "__docId__": 16,
     "kind": "external",
     "name": "ReferenceError",
-    "externalLink":
-      "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/ReferenceError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/ReferenceError",
     "memberof": "src/.external-ecmascript.js",
     "static": true,
     "longname": "src/.external-ecmascript.js~ReferenceError",
@@ -211,8 +195,7 @@
     "__docId__": 17,
     "kind": "external",
     "name": "SyntaxError",
-    "externalLink":
-      "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/SyntaxError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/SyntaxError",
     "memberof": "src/.external-ecmascript.js",
     "static": true,
     "longname": "src/.external-ecmascript.js~SyntaxError",
@@ -224,8 +207,7 @@
     "__docId__": 18,
     "kind": "external",
     "name": "TypeError",
-    "externalLink":
-      "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/TypeError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/TypeError",
     "memberof": "src/.external-ecmascript.js",
     "static": true,
     "longname": "src/.external-ecmascript.js~TypeError",
@@ -237,8 +219,7 @@
     "__docId__": 19,
     "kind": "external",
     "name": "URIError",
-    "externalLink":
-      "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/URIError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/URIError",
     "memberof": "src/.external-ecmascript.js",
     "static": true,
     "longname": "src/.external-ecmascript.js~URIError",
@@ -250,8 +231,7 @@
     "__docId__": 20,
     "kind": "external",
     "name": "Number",
-    "externalLink":
-      "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number",
     "memberof": "src/.external-ecmascript.js",
     "static": true,
     "longname": "src/.external-ecmascript.js~Number",
@@ -263,8 +243,7 @@
     "__docId__": 21,
     "kind": "external",
     "name": "number",
-    "externalLink":
-      "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number",
     "memberof": "src/.external-ecmascript.js",
     "static": true,
     "longname": "src/.external-ecmascript.js~number",
@@ -276,8 +255,7 @@
     "__docId__": 22,
     "kind": "external",
     "name": "Date",
-    "externalLink":
-      "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date",
     "memberof": "src/.external-ecmascript.js",
     "static": true,
     "longname": "src/.external-ecmascript.js~Date",
@@ -289,8 +267,7 @@
     "__docId__": 23,
     "kind": "external",
     "name": "String",
-    "externalLink":
-      "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String",
     "memberof": "src/.external-ecmascript.js",
     "static": true,
     "longname": "src/.external-ecmascript.js~String",
@@ -302,8 +279,7 @@
     "__docId__": 24,
     "kind": "external",
     "name": "string",
-    "externalLink":
-      "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String",
     "memberof": "src/.external-ecmascript.js",
     "static": true,
     "longname": "src/.external-ecmascript.js~string",
@@ -315,8 +291,7 @@
     "__docId__": 25,
     "kind": "external",
     "name": "RegExp",
-    "externalLink":
-      "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RegExp",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RegExp",
     "memberof": "src/.external-ecmascript.js",
     "static": true,
     "longname": "src/.external-ecmascript.js~RegExp",
@@ -328,8 +303,7 @@
     "__docId__": 26,
     "kind": "external",
     "name": "Array",
-    "externalLink":
-      "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array",
     "memberof": "src/.external-ecmascript.js",
     "static": true,
     "longname": "src/.external-ecmascript.js~Array",
@@ -341,8 +315,7 @@
     "__docId__": 27,
     "kind": "external",
     "name": "Int8Array",
-    "externalLink":
-      "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Int8Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Int8Array",
     "memberof": "src/.external-ecmascript.js",
     "static": true,
     "longname": "src/.external-ecmascript.js~Int8Array",
@@ -354,8 +327,7 @@
     "__docId__": 28,
     "kind": "external",
     "name": "Uint8Array",
-    "externalLink":
-      "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint8Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint8Array",
     "memberof": "src/.external-ecmascript.js",
     "static": true,
     "longname": "src/.external-ecmascript.js~Uint8Array",
@@ -367,8 +339,7 @@
     "__docId__": 29,
     "kind": "external",
     "name": "Uint8ClampedArray",
-    "externalLink":
-      "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint8ClampedArray",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint8ClampedArray",
     "memberof": "src/.external-ecmascript.js",
     "static": true,
     "longname": "src/.external-ecmascript.js~Uint8ClampedArray",
@@ -380,8 +351,7 @@
     "__docId__": 30,
     "kind": "external",
     "name": "Int16Array",
-    "externalLink":
-      "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Int16Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Int16Array",
     "memberof": "src/.external-ecmascript.js",
     "static": true,
     "longname": "src/.external-ecmascript.js~Int16Array",
@@ -393,8 +363,7 @@
     "__docId__": 31,
     "kind": "external",
     "name": "Uint16Array",
-    "externalLink":
-      "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint16Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint16Array",
     "memberof": "src/.external-ecmascript.js",
     "static": true,
     "longname": "src/.external-ecmascript.js~Uint16Array",
@@ -406,8 +375,7 @@
     "__docId__": 32,
     "kind": "external",
     "name": "Int32Array",
-    "externalLink":
-      "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Int32Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Int32Array",
     "memberof": "src/.external-ecmascript.js",
     "static": true,
     "longname": "src/.external-ecmascript.js~Int32Array",
@@ -419,8 +387,7 @@
     "__docId__": 33,
     "kind": "external",
     "name": "Uint32Array",
-    "externalLink":
-      "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint32Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint32Array",
     "memberof": "src/.external-ecmascript.js",
     "static": true,
     "longname": "src/.external-ecmascript.js~Uint32Array",
@@ -432,8 +399,7 @@
     "__docId__": 34,
     "kind": "external",
     "name": "Float32Array",
-    "externalLink":
-      "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Float32Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Float32Array",
     "memberof": "src/.external-ecmascript.js",
     "static": true,
     "longname": "src/.external-ecmascript.js~Float32Array",
@@ -445,8 +411,7 @@
     "__docId__": 35,
     "kind": "external",
     "name": "Float64Array",
-    "externalLink":
-      "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Float64Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Float64Array",
     "memberof": "src/.external-ecmascript.js",
     "static": true,
     "longname": "src/.external-ecmascript.js~Float64Array",
@@ -458,8 +423,7 @@
     "__docId__": 36,
     "kind": "external",
     "name": "Map",
-    "externalLink":
-      "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Map",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Map",
     "memberof": "src/.external-ecmascript.js",
     "static": true,
     "longname": "src/.external-ecmascript.js~Map",
@@ -471,8 +435,7 @@
     "__docId__": 37,
     "kind": "external",
     "name": "Set",
-    "externalLink":
-      "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Set",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Set",
     "memberof": "src/.external-ecmascript.js",
     "static": true,
     "longname": "src/.external-ecmascript.js~Set",
@@ -484,8 +447,7 @@
     "__docId__": 38,
     "kind": "external",
     "name": "WeakMap",
-    "externalLink":
-      "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/WeakMap",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/WeakMap",
     "memberof": "src/.external-ecmascript.js",
     "static": true,
     "longname": "src/.external-ecmascript.js~WeakMap",
@@ -497,8 +459,7 @@
     "__docId__": 39,
     "kind": "external",
     "name": "WeakSet",
-    "externalLink":
-      "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/WeakSet",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/WeakSet",
     "memberof": "src/.external-ecmascript.js",
     "static": true,
     "longname": "src/.external-ecmascript.js~WeakSet",
@@ -510,8 +471,7 @@
     "__docId__": 40,
     "kind": "external",
     "name": "ArrayBuffer",
-    "externalLink":
-      "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/ArrayBuffer",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/ArrayBuffer",
     "memberof": "src/.external-ecmascript.js",
     "static": true,
     "longname": "src/.external-ecmascript.js~ArrayBuffer",
@@ -523,8 +483,7 @@
     "__docId__": 41,
     "kind": "external",
     "name": "DataView",
-    "externalLink":
-      "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/DataView",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/DataView",
     "memberof": "src/.external-ecmascript.js",
     "static": true,
     "longname": "src/.external-ecmascript.js~DataView",
@@ -536,8 +495,7 @@
     "__docId__": 42,
     "kind": "external",
     "name": "JSON",
-    "externalLink":
-      "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON",
     "memberof": "src/.external-ecmascript.js",
     "static": true,
     "longname": "src/.external-ecmascript.js~JSON",
@@ -549,8 +507,7 @@
     "__docId__": 43,
     "kind": "external",
     "name": "Promise",
-    "externalLink":
-      "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise",
     "memberof": "src/.external-ecmascript.js",
     "static": true,
     "longname": "src/.external-ecmascript.js~Promise",
@@ -562,8 +519,7 @@
     "__docId__": 44,
     "kind": "external",
     "name": "Generator",
-    "externalLink":
-      "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Generator",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Generator",
     "memberof": "src/.external-ecmascript.js",
     "static": true,
     "longname": "src/.external-ecmascript.js~Generator",
@@ -575,8 +531,7 @@
     "__docId__": 45,
     "kind": "external",
     "name": "GeneratorFunction",
-    "externalLink":
-      "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/GeneratorFunction",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/GeneratorFunction",
     "memberof": "src/.external-ecmascript.js",
     "static": true,
     "longname": "src/.external-ecmascript.js~GeneratorFunction",
@@ -588,8 +543,7 @@
     "__docId__": 46,
     "kind": "external",
     "name": "Reflect",
-    "externalLink":
-      "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Reflect",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Reflect",
     "memberof": "src/.external-ecmascript.js",
     "static": true,
     "longname": "src/.external-ecmascript.js~Reflect",
@@ -601,8 +555,7 @@
     "__docId__": 47,
     "kind": "external",
     "name": "Proxy",
-    "externalLink":
-      "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Proxy",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Proxy",
     "memberof": "src/.external-ecmascript.js",
     "static": true,
     "longname": "src/.external-ecmascript.js~Proxy",
@@ -614,8 +567,7 @@
     "__docId__": 48,
     "kind": "file",
     "name": "src/action_types/app.js",
-    "content":
-      "/*\n * Copyright (c) 2017-present Muneeb Samuels. All Rights Reserved. See License.txt for license information.\n */\n\nimport keyMirror from 'utils/key_mirror'\n\nexport default keyMirror({\n  APP_INIT_STARTED: null,\n  APP_INIT_FINISHED: null,\n  APP_LOGIN_ROOT: null,\n  APP_AUTHENTICATED_ROOT: null\n}, '@@redblade-redux/')\n",
+    "content": "/*\n * Copyright (c) 2017-present Muneeb Samuels. All Rights Reserved. See License.txt for license information.\n */\n\nimport keyMirror from 'utils/key_mirror'\n\nexport default keyMirror({\n  APP_INIT_STARTED: null,\n  APP_INIT_FINISHED: null,\n  APP_LOGIN_ROOT: null,\n  APP_AUTHENTICATED_ROOT: null\n}, '@@altair-redux/')\n",
     "static": true,
     "longname": "/Users/muneeb/dev/redblade-redux/src/action_types/app.js",
     "access": "public",
@@ -626,8 +578,7 @@
     "__docId__": 49,
     "kind": "file",
     "name": "src/action_types/customer.js",
-    "content":
-      "/*\n * Copyright (c) 2017-present Muneeb Samuels. All Rights Reserved. See License.txt for license information.\n */\n\nimport keyMirror from 'utils/key_mirror'\n\nexport default keyMirror({\n  CREATE_CUSTOMER_REQUEST: null,\n  CREATE_CUSTOMER_SUCCESS: null,\n  CREATE_CUSTOMER_FAILURE: null,\n\n  DELETE_CUSTOMER_REQUEST: null,\n  DELETE_CUSTOMER_SUCCESS: null,\n  DELETE_CUSTOMER_FAILURE: null,\n\n  CUSTOMERS_REQUEST: null,\n  CUSTOMERS_SUCCESS: null,\n  CUSTOMERS_FAILURE: null,\n\n  RECEIVED_CUSTOMERS: null,\n  RECEIVED_CUSTOMER: null,\n  DELETED_CUSTOMER: null,\n  DELETED_CUSTOMERS: null\n}, '@@redblade-redux/')\n",
+    "content": "/*\n * Copyright (c) 2017-present Muneeb Samuels. All Rights Reserved. See License.txt for license information.\n */\n\nimport keyMirror from 'utils/key_mirror'\n\nexport default keyMirror({\n  CREATE_CUSTOMER_REQUEST: null,\n  CREATE_CUSTOMER_SUCCESS: null,\n  CREATE_CUSTOMER_FAILURE: null,\n\n  DELETE_CUSTOMER_REQUEST: null,\n  DELETE_CUSTOMER_SUCCESS: null,\n  DELETE_CUSTOMER_FAILURE: null,\n\n  CUSTOMERS_REQUEST: null,\n  CUSTOMERS_SUCCESS: null,\n  CUSTOMERS_FAILURE: null,\n\n  RECEIVED_CUSTOMERS: null,\n  RECEIVED_CUSTOMER: null,\n  DELETED_CUSTOMER: null,\n  DELETED_CUSTOMERS: null\n}, '@@altair-redux/')\n",
     "static": true,
     "longname": "/Users/muneeb/dev/redblade-redux/src/action_types/customer.js",
     "access": "public",
@@ -638,8 +589,7 @@
     "__docId__": 50,
     "kind": "file",
     "name": "src/action_types/index.js",
-    "content":
-      "/*\n * Copyright (c) 2017-present Muneeb Samuels. All Rights Reserved. See License.txt for license information.\n */\n\nimport UserTypes from './user'\nimport CustomerTypes from './customer'\nimport SearchTypes from './search'\nimport AppTypes from './app'\n\nexport {\n  UserTypes,\n  CustomerTypes,\n  SearchTypes,\n  AppTypes\n}\n",
+    "content": "/*\n * Copyright (c) 2017-present Muneeb Samuels. All Rights Reserved. See License.txt for license information.\n */\n\nimport UserTypes from './user'\nimport CustomerTypes from './customer'\nimport SearchTypes from './search'\nimport AppTypes from './app'\n\nexport {\n  UserTypes,\n  CustomerTypes,\n  SearchTypes,\n  AppTypes\n}\n",
     "static": true,
     "longname": "/Users/muneeb/dev/redblade-redux/src/action_types/index.js",
     "access": "public",
@@ -650,8 +600,7 @@
     "__docId__": 51,
     "kind": "file",
     "name": "src/action_types/search.js",
-    "content":
-      "/*\n * Copyright (c) 2017-present Muneeb Samuels. All Rights Reserved. See License.txt for license information.\n */\n\nimport keyMirror from 'utils/key_mirror'\n\nexport default keyMirror({\n  SEARCH_CUSTOMERS_REQUEST: null,\n  SEARCH_CUSTOMERS_SUCCESS: null,\n  SEARCH_CUSTOMERS_FAILURE: null,\n\n  CLEAR_CUSTOMER_SEARCH_RESULTS: null,\n  RECEIVED_SEARCH_CUSTOMERS: null\n}, '@@redblade-redux/')\n",
+    "content": "/*\n * Copyright (c) 2017-present Muneeb Samuels. All Rights Reserved. See License.txt for license information.\n */\n\nimport keyMirror from 'utils/key_mirror'\n\nexport default keyMirror({\n  SEARCH_CUSTOMERS_REQUEST: null,\n  SEARCH_CUSTOMERS_SUCCESS: null,\n  SEARCH_CUSTOMERS_FAILURE: null,\n\n  CLEAR_CUSTOMER_SEARCH_RESULTS: null,\n  RECEIVED_SEARCH_CUSTOMERS: null\n}, '@@altair-redux/')\n",
     "static": true,
     "longname": "/Users/muneeb/dev/redblade-redux/src/action_types/search.js",
     "access": "public",
@@ -662,8 +611,7 @@
     "__docId__": 52,
     "kind": "file",
     "name": "src/action_types/user.js",
-    "content":
-      "/*\n * Copyright (c) 2017-present Muneeb Samuels. All Rights Reserved. See License.txt for license information.\n */\n\nimport keyMirror from 'utils/key_mirror'\n\nexport default keyMirror({\n  LOGIN_REQUEST: null,\n  LOGIN_SUCCESS: null,\n  LOGIN_FAILURE: null,\n\n  CONFIRMATION_REQUEST: null,\n  CONFIRMATION_SUCCESS: null,\n  CONFIRMATION_FAILURE: null,\n\n  SIGN_OUT_REQUEST: null,\n  SIGN_OUT_SUCCESS: null,\n  SIGN_OUT_FAILURE: null,\n\n  SESSION_TOKEN_REQUEST: null,\n  SESSION_TOKEN_FAILURE: null,\n  SESSION_TOKEN_SUCCESS: null,\n\n  RECEIVED_ME: null,\n  RECEIVED_SEARCH_KEY: null\n}, '@@redblade-redux/')\n",
+    "content": "/*\n * Copyright (c) 2017-present Muneeb Samuels. All Rights Reserved. See License.txt for license information.\n */\n\nimport keyMirror from 'utils/key_mirror'\n\nexport default keyMirror({\n  LOGIN_REQUEST: null,\n  LOGIN_SUCCESS: null,\n  LOGIN_FAILURE: null,\n\n  CONFIRMATION_REQUEST: null,\n  CONFIRMATION_SUCCESS: null,\n  CONFIRMATION_FAILURE: null,\n\n  SIGN_OUT_REQUEST: null,\n  SIGN_OUT_SUCCESS: null,\n  SIGN_OUT_FAILURE: null,\n\n  SESSION_TOKEN_REQUEST: null,\n  SESSION_TOKEN_FAILURE: null,\n  SESSION_TOKEN_SUCCESS: null,\n\n  RECEIVED_ME: null,\n  RECEIVED_SEARCH_KEY: null\n}, '@@altair-redux/')\n",
     "static": true,
     "longname": "/Users/muneeb/dev/redblade-redux/src/action_types/user.js",
     "access": "public",
@@ -674,8 +622,7 @@
     "__docId__": 53,
     "kind": "file",
     "name": "src/actions/app.js",
-    "content":
-      "/*\n * Copyright (c) 2017-present Muneeb Samuels. All Rights Reserved. See License.txt for license information.\n */\n\nimport { AppTypes } from 'action_types'\n\nexport function appInitStarted () {\n  return {\n    type: AppTypes.APP_INIT_STARTED\n  }\n}\n\nexport function appInitFinished () {\n  return {\n    type: AppTypes.APP_INIT_FINISHED\n  }\n}\n",
+    "content": "/*\n * Copyright (c) 2017-present Muneeb Samuels. All Rights Reserved. See License.txt for license information.\n */\n\nimport { AppTypes } from 'action_types'\n\nexport function appInitStarted () {\n  return {\n    type: AppTypes.APP_INIT_STARTED\n  }\n}\n\nexport function appInitFinished () {\n  return {\n    type: AppTypes.APP_INIT_FINISHED\n  }\n}\n",
     "static": true,
     "longname": "/Users/muneeb/dev/redblade-redux/src/actions/app.js",
     "access": "public",
@@ -700,7 +647,9 @@
     "undocument": true,
     "params": [],
     "return": {
-      "types": ["{\"type\": *}"]
+      "types": [
+        "{\"type\": *}"
+      ]
     }
   },
   {
@@ -721,15 +670,16 @@
     "undocument": true,
     "params": [],
     "return": {
-      "types": ["{\"type\": *}"]
+      "types": [
+        "{\"type\": *}"
+      ]
     }
   },
   {
     "__docId__": 56,
     "kind": "file",
     "name": "src/actions/index.js",
-    "content":
-      "/*\n * Copyright (c) 2017-present Muneeb Samuels. All Rights Reserved. See License.txt for license information.\n */\n\nimport * as UserActions from './user'\nimport * as AppActions from './app'\nimport * as SearchActions from './search'\nimport * as CustomerActions from './customer'\n\nexport {\n  AppActions,\n  UserActions,\n  SearchActions,\n  CustomerActions\n}\n",
+    "content": "/*\n * Copyright (c) 2017-present Muneeb Samuels. All Rights Reserved. See License.txt for license information.\n */\n\nimport * as UserActions from './user'\nimport * as AppActions from './app'\nimport * as SearchActions from './search'\nimport * as CustomerActions from './customer'\n\nexport {\n  AppActions,\n  UserActions,\n  SearchActions,\n  CustomerActions\n}\n",
     "static": true,
     "longname": "/Users/muneeb/dev/redblade-redux/src/actions/index.js",
     "access": "public",
@@ -740,8 +690,7 @@
     "__docId__": 57,
     "kind": "file",
     "name": "src/constants/index.js",
-    "content":
-      "/*\n * Copyright (c) 2017-present Muneeb Samuels. All Rights Reserved. See License.txt for license information.\n */\n\nimport RequestStatus from './request_status'\n\nexport {\n  RequestStatus\n}\n",
+    "content": "/*\n * Copyright (c) 2017-present Muneeb Samuels. All Rights Reserved. See License.txt for license information.\n */\n\nimport RequestStatus from './request_status'\n\nexport {\n  RequestStatus\n}\n",
     "static": true,
     "longname": "/Users/muneeb/dev/redblade-redux/src/constants/index.js",
     "access": "public",
@@ -752,11 +701,9 @@
     "__docId__": 58,
     "kind": "file",
     "name": "src/constants/request_status.js",
-    "content":
-      "/*\n * Copyright (c) 2017-present Muneeb Samuels. All Rights Reserved. See License.txt for license information.\n */\n\nimport keyMirror from 'utils/key_mirror'\n\nexport default keyMirror({\n  NOT_STARTED: null,\n  STARTED: null,\n  SUCCESS: null,\n  FAILURE: null,\n  CANCELLED: null\n})\n",
+    "content": "/*\n * Copyright (c) 2017-present Muneeb Samuels. All Rights Reserved. See License.txt for license information.\n */\n\nimport keyMirror from 'utils/key_mirror'\n\nexport default keyMirror({\n  NOT_STARTED: null,\n  STARTED: null,\n  SUCCESS: null,\n  FAILURE: null,\n  CANCELLED: null\n})\n",
     "static": true,
-    "longname":
-      "/Users/muneeb/dev/redblade-redux/src/constants/request_status.js",
+    "longname": "/Users/muneeb/dev/redblade-redux/src/constants/request_status.js",
     "access": "public",
     "description": null,
     "lineNumber": 1
@@ -765,8 +712,7 @@
     "__docId__": 59,
     "kind": "file",
     "name": "src/index.js",
-    "content":
-      "/*\n * Copyright (c) 2017-present Muneeb Samuels. All Rights Reserved. See License.txt for license information.\n */\n\nimport { AppActions, UserActions, SearchActions, CustomerActions } from './actions'\nimport { AppTypes, UserTypes, SearchTypes } from './action_types'\nimport { configureStore, sagaMiddleware } from './store'\nimport sagas from './sagas'\n\nexport default {\n  AppActions,\n  UserActions,\n  SearchActions,\n  CustomerActions,\n  AppTypes,\n  UserTypes,\n  SearchTypes,\n  configureStore,\n  sagaMiddleware,\n  sagas\n}\n",
+    "content": "/*\n * Copyright (c) 2017-present Muneeb Samuels. All Rights Reserved. See License.txt for license information.\n */\n\nimport { AppActions, UserActions, SearchActions, CustomerActions } from './actions'\nimport { AppTypes, UserTypes, SearchTypes } from './action_types'\nimport { configureStore, sagaMiddleware } from './store'\nimport sagas from './sagas'\n\nexport default {\n  AppActions,\n  UserActions,\n  SearchActions,\n  CustomerActions,\n  AppTypes,\n  UserTypes,\n  SearchTypes,\n  configureStore,\n  sagaMiddleware,\n  sagas\n}\n",
     "static": true,
     "longname": "/Users/muneeb/dev/redblade-redux/src/index.js",
     "access": "public",
@@ -777,11 +723,9 @@
     "__docId__": 60,
     "kind": "file",
     "name": "src/reducers/entities/index.js",
-    "content":
-      "/*\n * Copyright (c) 2017-present Muneeb Samuels. All Rights Reserved. See License.txt for license information.\n */\n\nimport { combineReducers } from 'redux'\n\nimport user from './user'\nimport app from './app'\nimport search from './search'\nimport customers from './customers'\n\nexport default combineReducers({\n  user,\n  app,\n  search,\n  customers\n})\n",
+    "content": "/*\n * Copyright (c) 2017-present Muneeb Samuels. All Rights Reserved. See License.txt for license information.\n */\n\nimport { combineReducers } from 'redux'\n\nimport user from './user'\nimport app from './app'\nimport search from './search'\nimport customers from './customers'\n\nexport default combineReducers({\n  user,\n  app,\n  search,\n  customers\n})\n",
     "static": true,
-    "longname":
-      "/Users/muneeb/dev/redblade-redux/src/reducers/entities/index.js",
+    "longname": "/Users/muneeb/dev/redblade-redux/src/reducers/entities/index.js",
     "access": "public",
     "description": null,
     "lineNumber": 1
@@ -790,11 +734,9 @@
     "__docId__": 61,
     "kind": "file",
     "name": "src/reducers/entities/search.js",
-    "content":
-      "/*\n * Copyright (c) 2017-present Muneeb Samuels. All Rights Reserved. See License.txt for license information.\n */\n\nimport { combineReducers } from 'redux'\nimport { SearchTypes, UserTypes } from 'action_types'\n\nfunction results (state = [], action) {\n  switch (action.type) {\n    case SearchTypes.RECEIVED_SEARCH_CUSTOMERS: {\n      return action.data\n    }\n\n    case UserTypes.SIGN_OUT_SUCCESS:\n      return []\n\n    default:\n      return state\n  }\n}\n\nexport default combineReducers({\n  results\n})\n",
+    "content": "/*\n * Copyright (c) 2017-present Muneeb Samuels. All Rights Reserved. See License.txt for license information.\n */\n\nimport { combineReducers } from 'redux'\nimport { SearchTypes, UserTypes } from 'action_types'\n\nfunction results (state = [], action) {\n  switch (action.type) {\n    case SearchTypes.RECEIVED_SEARCH_CUSTOMERS: {\n      return action.data\n    }\n\n    case UserTypes.SIGN_OUT_SUCCESS:\n      return []\n\n    default:\n      return state\n  }\n}\n\nexport default combineReducers({\n  results\n})\n",
     "static": true,
-    "longname":
-      "/Users/muneeb/dev/redblade-redux/src/reducers/entities/search.js",
+    "longname": "/Users/muneeb/dev/redblade-redux/src/reducers/entities/search.js",
     "access": "public",
     "description": null,
     "lineNumber": 1
@@ -819,17 +761,23 @@
       {
         "name": "state",
         "optional": true,
-        "types": ["*[]"],
+        "types": [
+          "*[]"
+        ],
         "defaultRaw": [],
         "defaultValue": "[]"
       },
       {
         "name": "action",
-        "types": ["*"]
+        "types": [
+          "*"
+        ]
       }
     ],
     "return": {
-      "types": ["*"]
+      "types": [
+        "*"
+      ]
     },
     "ignore": true
   },
@@ -837,8 +785,7 @@
     "__docId__": 63,
     "kind": "file",
     "name": "src/reducers/index.js",
-    "content":
-      "/*\n * Copyright (c) 2017-present Muneeb Samuels. All Rights Reserved. See License.txt for license information.\n */\n\nimport entities from './entities'\nimport requests from './requests'\n\nexport default {\n  entities,\n  requests\n}\n",
+    "content": "/*\n * Copyright (c) 2017-present Muneeb Samuels. All Rights Reserved. See License.txt for license information.\n */\n\nimport entities from './entities'\nimport requests from './requests'\n\nexport default {\n  entities,\n  requests\n}\n",
     "static": true,
     "longname": "/Users/muneeb/dev/redblade-redux/src/reducers/index.js",
     "access": "public",
@@ -849,11 +796,9 @@
     "__docId__": 64,
     "kind": "file",
     "name": "src/reducers/requests/customers.js",
-    "content":
-      "/*\n * Copyright (c) 2017-present Muneeb Samuels. All Rights Reserved. See License.txt for license information.\n */\n\nimport { combineReducers } from 'redux'\nimport { CustomerTypes } from 'action_types'\nimport { handleRequest, initialRequestState } from './helpers'\n\n/**\n *\n * @param {Object} state\n * @param {Action} action\n * @returns {{status}|{status, error}|*}\n */\nfunction createCustomer (state = initialRequestState(), action) {\n  return handleRequest(\n    CustomerTypes.CREATE_CUSTOMER_REQUEST,\n    CustomerTypes.CREATE_CUSTOMER_SUCCESS,\n    CustomerTypes.CREATE_CUSTOMER_FAILURE,\n    state,\n    action\n  )\n}\n\n/**\n *\n * @param {Object} state\n * @param {Action} action\n * @returns {{status}|{status, error}|*}\n */\nfunction deleteCustomer (state = initialRequestState(), action) {\n  return handleRequest(\n    CustomerTypes.DELETE_CUSTOMER_REQUEST,\n    CustomerTypes.DELETE_CUSTOMER_SUCCESS,\n    CustomerTypes.DELETE_CUSTOMER_FAILURE,\n    state,\n    action\n  )\n}\n\n/**\n *\n * @param {Object} state\n * @param {Action} action\n * @returns {{status}|{status, error}|*}\n */\nfunction allCustomers (state = initialRequestState(), action) {\n  return handleRequest(\n    CustomerTypes.CUSTOMERS_REQUEST,\n    CustomerTypes.CUSTOMERS_SUCCESS,\n    CustomerTypes.CUSTOMERS_FAILURE,\n    state,\n    action\n  )\n}\n\nexport default combineReducers({\n  createCustomer,\n  deleteCustomer,\n  allCustomers\n})\n",
+    "content": "/*\n * Copyright (c) 2017-present Muneeb Samuels. All Rights Reserved. See License.txt for license information.\n */\n\nimport { combineReducers } from 'redux'\nimport { CustomerTypes } from 'action_types'\nimport { handleRequest, initialRequestState } from './helpers'\n\n/**\n *\n * @param {Object} state\n * @param {Action} action\n * @returns {{status}|{status, error}|*}\n */\nfunction createCustomer (state = initialRequestState(), action) {\n  return handleRequest(\n    CustomerTypes.CREATE_CUSTOMER_REQUEST,\n    CustomerTypes.CREATE_CUSTOMER_SUCCESS,\n    CustomerTypes.CREATE_CUSTOMER_FAILURE,\n    state,\n    action\n  )\n}\n\n/**\n *\n * @param {Object} state\n * @param {Action} action\n * @returns {{status}|{status, error}|*}\n */\nfunction deleteCustomer (state = initialRequestState(), action) {\n  return handleRequest(\n    CustomerTypes.DELETE_CUSTOMER_REQUEST,\n    CustomerTypes.DELETE_CUSTOMER_SUCCESS,\n    CustomerTypes.DELETE_CUSTOMER_FAILURE,\n    state,\n    action\n  )\n}\n\n/**\n *\n * @param {Object} state\n * @param {Action} action\n * @returns {{status}|{status, error}|*}\n */\nfunction allCustomers (state = initialRequestState(), action) {\n  return handleRequest(\n    CustomerTypes.CUSTOMERS_REQUEST,\n    CustomerTypes.CUSTOMERS_SUCCESS,\n    CustomerTypes.CUSTOMERS_FAILURE,\n    state,\n    action\n  )\n}\n\nexport default combineReducers({\n  createCustomer,\n  deleteCustomer,\n  allCustomers\n})\n",
     "static": true,
-    "longname":
-      "/Users/muneeb/dev/redblade-redux/src/reducers/requests/customers.js",
+    "longname": "/Users/muneeb/dev/redblade-redux/src/reducers/requests/customers.js",
     "access": "public",
     "description": null,
     "lineNumber": 1
@@ -882,7 +827,9 @@
     "params": [
       {
         "nullable": null,
-        "types": ["Object"],
+        "types": [
+          "Object"
+        ],
         "spread": false,
         "optional": false,
         "name": "state",
@@ -890,7 +837,9 @@
       },
       {
         "nullable": null,
-        "types": ["Action"],
+        "types": [
+          "Action"
+        ],
         "spread": false,
         "optional": false,
         "name": "action",
@@ -899,7 +848,9 @@
     ],
     "return": {
       "nullable": null,
-      "types": ["{status}|{status, error}|*"],
+      "types": [
+        "{status}|{status, error}|*"
+      ],
       "spread": false,
       "description": ""
     },
@@ -929,7 +880,9 @@
     "params": [
       {
         "nullable": null,
-        "types": ["Object"],
+        "types": [
+          "Object"
+        ],
         "spread": false,
         "optional": false,
         "name": "state",
@@ -937,7 +890,9 @@
       },
       {
         "nullable": null,
-        "types": ["Action"],
+        "types": [
+          "Action"
+        ],
         "spread": false,
         "optional": false,
         "name": "action",
@@ -946,7 +901,9 @@
     ],
     "return": {
       "nullable": null,
-      "types": ["{status}|{status, error}|*"],
+      "types": [
+        "{status}|{status, error}|*"
+      ],
       "spread": false,
       "description": ""
     },
@@ -976,7 +933,9 @@
     "params": [
       {
         "nullable": null,
-        "types": ["Object"],
+        "types": [
+          "Object"
+        ],
         "spread": false,
         "optional": false,
         "name": "state",
@@ -984,7 +943,9 @@
       },
       {
         "nullable": null,
-        "types": ["Action"],
+        "types": [
+          "Action"
+        ],
         "spread": false,
         "optional": false,
         "name": "action",
@@ -993,7 +954,9 @@
     ],
     "return": {
       "nullable": null,
-      "types": ["{status}|{status, error}|*"],
+      "types": [
+        "{status}|{status, error}|*"
+      ],
       "spread": false,
       "description": ""
     },
@@ -1003,11 +966,9 @@
     "__docId__": 68,
     "kind": "file",
     "name": "src/reducers/requests/index.js",
-    "content":
-      "/*\n * Copyright (c) 2017-present Muneeb Samuels. All Rights Reserved. See License.txt for license information.\n */\n\nimport { combineReducers } from 'redux'\n\nimport user from './user'\nimport search from './search'\nimport customers from './customers'\n\nexport default combineReducers({\n  user,\n  search,\n  customers\n})\n",
+    "content": "/*\n * Copyright (c) 2017-present Muneeb Samuels. All Rights Reserved. See License.txt for license information.\n */\n\nimport { combineReducers } from 'redux'\n\nimport user from './user'\nimport search from './search'\nimport customers from './customers'\n\nexport default combineReducers({\n  user,\n  search,\n  customers\n})\n",
     "static": true,
-    "longname":
-      "/Users/muneeb/dev/redblade-redux/src/reducers/requests/index.js",
+    "longname": "/Users/muneeb/dev/redblade-redux/src/reducers/requests/index.js",
     "access": "public",
     "description": null,
     "lineNumber": 1
@@ -1016,11 +977,9 @@
     "__docId__": 69,
     "kind": "file",
     "name": "src/reducers/requests/search.js",
-    "content":
-      "/*\n * Copyright (c) 2017-present Muneeb Samuels. All Rights Reserved. See License.txt for license information.\n */\n\nimport { combineReducers } from 'redux'\nimport { SearchTypes } from 'action_types'\n\nimport { handleRequest, initialRequestState } from './helpers'\n\nfunction searchCustomers (state = initialRequestState(), action) {\n  return handleRequest(\n    SearchTypes.SEARCH_CUSTOMERS_REQUEST,\n    SearchTypes.SEARCH_CUSTOMERS_SUCCESS,\n    SearchTypes.SEARCH_CUSTOMERS_FAILURE,\n    state,\n    action\n  )\n}\n\nexport default combineReducers({\n  searchCustomers\n})\n",
+    "content": "/*\n * Copyright (c) 2017-present Muneeb Samuels. All Rights Reserved. See License.txt for license information.\n */\n\nimport { combineReducers } from 'redux'\nimport { SearchTypes } from 'action_types'\n\nimport { handleRequest, initialRequestState } from './helpers'\n\nfunction searchCustomers (state = initialRequestState(), action) {\n  return handleRequest(\n    SearchTypes.SEARCH_CUSTOMERS_REQUEST,\n    SearchTypes.SEARCH_CUSTOMERS_SUCCESS,\n    SearchTypes.SEARCH_CUSTOMERS_FAILURE,\n    state,\n    action\n  )\n}\n\nexport default combineReducers({\n  searchCustomers\n})\n",
     "static": true,
-    "longname":
-      "/Users/muneeb/dev/redblade-redux/src/reducers/requests/search.js",
+    "longname": "/Users/muneeb/dev/redblade-redux/src/reducers/requests/search.js",
     "access": "public",
     "description": null,
     "lineNumber": 1
@@ -1045,15 +1004,21 @@
       {
         "name": "state",
         "optional": true,
-        "types": ["*"]
+        "types": [
+          "*"
+        ]
       },
       {
         "name": "action",
-        "types": ["*"]
+        "types": [
+          "*"
+        ]
       }
     ],
     "return": {
-      "types": ["*"]
+      "types": [
+        "*"
+      ]
     },
     "ignore": true
   },
@@ -1061,11 +1026,9 @@
     "__docId__": 71,
     "kind": "file",
     "name": "src/reducers/requests/user.js",
-    "content":
-      "/*\n * Copyright (c) 2017-present Muneeb Samuels. All Rights Reserved. See License.txt for license information.\n */\n\nimport { combineReducers } from 'redux'\nimport { UserTypes } from 'action_types'\nimport { handleRequest, initialRequestState } from './helpers'\n\n/**\n *\n * @param {Object} state\n * @param {Action} action\n * @returns {{status}|{status, error}|*}\n */\nfunction login (state = initialRequestState(), action) {\n  return handleRequest(\n    UserTypes.LOGIN_REQUEST,\n    UserTypes.LOGIN_SUCCESS,\n    UserTypes.LOGIN_FAILURE,\n    state,\n    action\n  )\n}\n\n/**\n *\n * @param {Object} state\n * @param {Action} action\n * @returns {{status}|{status, error}|*}\n */\nfunction getSessionToken (state = initialRequestState(), action) {\n  return handleRequest(\n    UserTypes.SESSION_TOKEN_REQUEST,\n    UserTypes.SESSION_TOKEN_SUCCESS,\n    UserTypes.SESSION_TOKEN_FAILURE,\n    state,\n    action\n  )\n}\n\n/**\n *\n * @param {Object} state\n * @param {Action} action\n * @returns {{status}|{status, error}|*}\n */\nfunction confirmationResult (state = initialRequestState(), action) {\n  return handleRequest(\n    UserTypes.CONFIRMATION_REQUEST,\n    UserTypes.CONFIRMATION_SUCCESS,\n    UserTypes.CONFIRMATION_FAILURE,\n    state,\n    action\n  )\n}\n\nexport default combineReducers({\n  login,\n  getSessionToken,\n  confirmationResult\n})\n",
+    "content": "/*\n * Copyright (c) 2017-present Muneeb Samuels. All Rights Reserved. See License.txt for license information.\n */\n\nimport { combineReducers } from 'redux'\nimport { UserTypes } from 'action_types'\nimport { handleRequest, initialRequestState } from './helpers'\n\n/**\n *\n * @param {Object} state\n * @param {Action} action\n * @returns {{status}|{status, error}|*}\n */\nfunction login (state = initialRequestState(), action) {\n  return handleRequest(\n    UserTypes.LOGIN_REQUEST,\n    UserTypes.LOGIN_SUCCESS,\n    UserTypes.LOGIN_FAILURE,\n    state,\n    action\n  )\n}\n\n/**\n *\n * @param {Object} state\n * @param {Action} action\n * @returns {{status}|{status, error}|*}\n */\nfunction getSessionToken (state = initialRequestState(), action) {\n  return handleRequest(\n    UserTypes.SESSION_TOKEN_REQUEST,\n    UserTypes.SESSION_TOKEN_SUCCESS,\n    UserTypes.SESSION_TOKEN_FAILURE,\n    state,\n    action\n  )\n}\n\n/**\n *\n * @param {Object} state\n * @param {Action} action\n * @returns {{status}|{status, error}|*}\n */\nfunction confirmationResult (state = initialRequestState(), action) {\n  return handleRequest(\n    UserTypes.CONFIRMATION_REQUEST,\n    UserTypes.CONFIRMATION_SUCCESS,\n    UserTypes.CONFIRMATION_FAILURE,\n    state,\n    action\n  )\n}\n\nexport default combineReducers({\n  login,\n  getSessionToken,\n  confirmationResult\n})\n",
     "static": true,
-    "longname":
-      "/Users/muneeb/dev/redblade-redux/src/reducers/requests/user.js",
+    "longname": "/Users/muneeb/dev/redblade-redux/src/reducers/requests/user.js",
     "access": "public",
     "description": null,
     "lineNumber": 1
@@ -1094,7 +1057,9 @@
     "params": [
       {
         "nullable": null,
-        "types": ["Object"],
+        "types": [
+          "Object"
+        ],
         "spread": false,
         "optional": false,
         "name": "state",
@@ -1102,7 +1067,9 @@
       },
       {
         "nullable": null,
-        "types": ["Action"],
+        "types": [
+          "Action"
+        ],
         "spread": false,
         "optional": false,
         "name": "action",
@@ -1111,7 +1078,9 @@
     ],
     "return": {
       "nullable": null,
-      "types": ["{status}|{status, error}|*"],
+      "types": [
+        "{status}|{status, error}|*"
+      ],
       "spread": false,
       "description": ""
     },
@@ -1141,7 +1110,9 @@
     "params": [
       {
         "nullable": null,
-        "types": ["Object"],
+        "types": [
+          "Object"
+        ],
         "spread": false,
         "optional": false,
         "name": "state",
@@ -1149,7 +1120,9 @@
       },
       {
         "nullable": null,
-        "types": ["Action"],
+        "types": [
+          "Action"
+        ],
         "spread": false,
         "optional": false,
         "name": "action",
@@ -1158,7 +1131,9 @@
     ],
     "return": {
       "nullable": null,
-      "types": ["{status}|{status, error}|*"],
+      "types": [
+        "{status}|{status, error}|*"
+      ],
       "spread": false,
       "description": ""
     },
@@ -1188,7 +1163,9 @@
     "params": [
       {
         "nullable": null,
-        "types": ["Object"],
+        "types": [
+          "Object"
+        ],
         "spread": false,
         "optional": false,
         "name": "state",
@@ -1196,7 +1173,9 @@
       },
       {
         "nullable": null,
-        "types": ["Action"],
+        "types": [
+          "Action"
+        ],
         "spread": false,
         "optional": false,
         "name": "action",
@@ -1205,7 +1184,9 @@
     ],
     "return": {
       "nullable": null,
-      "types": ["{status}|{status, error}|*"],
+      "types": [
+        "{status}|{status, error}|*"
+      ],
       "spread": false,
       "description": ""
     },
@@ -1215,8 +1196,7 @@
     "__docId__": 75,
     "kind": "file",
     "name": "src/sagas/customer/index.js",
-    "content":
-      "/*\n * Copyright (c) 2017-present Muneeb Samuels. All Rights Reserved. See License.txt for license information.\n */\n\nimport { all, fork, takeLatest } from 'redux-saga/effects'\nimport { CustomerTypes } from 'action_types'\nimport * as Tasks from './tasks'\n\nconst createCustomerRequestWatcher = function * createCustomerRequestWatcher () {\n  yield takeLatest(CustomerTypes.CREATE_CUSTOMER_REQUEST, Tasks.createCustomer)\n}\n\nconst deleteCustomerRequestWatcher = function * deleteCustomerRequestWatcher () {\n  yield takeLatest(CustomerTypes.DELETE_CUSTOMER_REQUEST, Tasks.deleteCustomer)\n}\n\nconst customersRequestWatcher = function * customersRequestWatcher () {\n  yield takeLatest(CustomerTypes.CUSTOMERS_REQUEST, Tasks.customers)\n}\n\nconst root = function * root () {\n  yield (all([\n    fork(createCustomerRequestWatcher),\n    fork(deleteCustomerRequestWatcher),\n    fork(customersRequestWatcher)\n  ]))\n}\n\nexport default root\n",
+    "content": "/*\n * Copyright (c) 2017-present Muneeb Samuels. All Rights Reserved. See License.txt for license information.\n */\n\nimport { all, fork, takeLatest } from 'redux-saga/effects'\nimport { CustomerTypes } from 'action_types'\nimport * as Tasks from './tasks'\n\nconst createCustomerRequestWatcher = function * createCustomerRequestWatcher () {\n  yield takeLatest(CustomerTypes.CREATE_CUSTOMER_REQUEST, Tasks.createCustomer)\n}\n\nconst deleteCustomerRequestWatcher = function * deleteCustomerRequestWatcher () {\n  yield takeLatest(CustomerTypes.DELETE_CUSTOMER_REQUEST, Tasks.deleteCustomer)\n}\n\nconst customersRequestWatcher = function * customersRequestWatcher () {\n  yield takeLatest(CustomerTypes.CUSTOMERS_REQUEST, Tasks.customers)\n}\n\nconst root = function * root () {\n  yield (all([\n    fork(createCustomerRequestWatcher),\n    fork(deleteCustomerRequestWatcher),\n    fork(customersRequestWatcher)\n  ]))\n}\n\nexport default root\n",
     "static": true,
     "longname": "/Users/muneeb/dev/redblade-redux/src/sagas/customer/index.js",
     "access": "public",
@@ -1306,8 +1286,7 @@
     "__docId__": 80,
     "kind": "file",
     "name": "src/sagas/index.js",
-    "content":
-      "/*\n * Copyright (c) 2017-present Muneeb Samuels. All Rights Reserved. See License.txt for license information.\n */\n\nimport { all, spawn } from 'redux-saga/effects'\nimport UserSagas from './user'\nimport CustomerSagas from './customer'\nimport SearchSagas from './search'\n\nconst root = function * root () {\n  return yield (\n    all([\n      spawn(UserSagas),\n      spawn(CustomerSagas),\n      spawn(SearchSagas)\n    ])\n  )\n}\n\nexport default root\n",
+    "content": "/*\n * Copyright (c) 2017-present Muneeb Samuels. All Rights Reserved. See License.txt for license information.\n */\n\nimport { all, spawn } from 'redux-saga/effects'\nimport UserSagas from './user'\nimport CustomerSagas from './customer'\nimport SearchSagas from './search'\n\nconst root = function * root () {\n  return yield (\n    all([\n      spawn(UserSagas),\n      spawn(CustomerSagas),\n      spawn(SearchSagas)\n    ])\n  )\n}\n\nexport default root\n",
     "static": true,
     "longname": "/Users/muneeb/dev/redblade-redux/src/sagas/index.js",
     "access": "public",
@@ -1332,15 +1311,16 @@
     "undocument": true,
     "params": [],
     "return": {
-      "types": ["*"]
+      "types": [
+        "*"
+      ]
     }
   },
   {
     "__docId__": 82,
     "kind": "file",
     "name": "src/sagas/search/index.js",
-    "content":
-      "/*\n * Copyright (c) 2017-present Muneeb Samuels. All Rights Reserved. See License.txt for license information.\n */\n\nimport { all, fork, throttle } from 'redux-saga/effects'\nimport { SearchTypes } from 'action_types'\nimport * as Tasks from 'sagas/search/tasks'\n\nconst searchCustomersRequest = function * searchCustomersRequest () {\n  yield throttle(500, SearchTypes.SEARCH_CUSTOMERS_REQUEST, Tasks.searchCustomers)\n}\n\nconst root = function * root () {\n  yield (all([\n    fork(searchCustomersRequest)\n  ]))\n}\n\nexport default root\n",
+    "content": "/*\n * Copyright (c) 2017-present Muneeb Samuels. All Rights Reserved. See License.txt for license information.\n */\n\nimport { all, fork, throttle } from 'redux-saga/effects'\nimport { SearchTypes } from 'action_types'\nimport * as Tasks from 'sagas/search/tasks'\n\nconst searchCustomersRequest = function * searchCustomersRequest () {\n  yield throttle(500, SearchTypes.SEARCH_CUSTOMERS_REQUEST, Tasks.searchCustomers)\n}\n\nconst root = function * root () {\n  yield (all([\n    fork(searchCustomersRequest)\n  ]))\n}\n\nexport default root\n",
     "static": true,
     "longname": "/Users/muneeb/dev/redblade-redux/src/sagas/search/index.js",
     "access": "public",
@@ -1390,8 +1370,7 @@
     "__docId__": 85,
     "kind": "file",
     "name": "src/sagas/search/tasks.js",
-    "content":
-      "/*\n * Copyright (c) 2017-present Muneeb Samuels. All Rights Reserved. See License.txt for license information.\n */\n\nimport { call, put, select, all } from 'redux-saga/effects'\nimport { SearchActions, CustomerActions } from 'actions'\nimport { SearchTypes } from 'action_types'\nimport { filter, isEmpty } from 'lodash'\n\nexport const searchCustomers = function * searchCustomers (action) {\n  try {\n    if (isEmpty(action.query)) {\n      // reset the customers state\n      yield put(SearchActions.clearSearchResults())\n      yield put(CustomerActions.customersRequest())\n    } else {\n      const state = yield select()\n      const id = state.entities.user.id\n      const response = yield call(SearchActions.search, action.query)\n      const results = yield all(filter(response.hits, (hit) => {\n        // filter our search results\n        return hit.createdBy === id\n      }).map((hit) => {\n        // get the document from the firestore cache.\n        return CustomerActions.getCustomerById(hit.objectID)\n      }))\n      yield put({ type: SearchTypes.RECEIVED_SEARCH_CUSTOMERS, data: results })\n      yield put(SearchActions.searchCustomersSuccess())\n    }\n  } catch (error) {\n    yield put(SearchActions.searchCustomersFailure(error))\n  }\n}\n",
+    "content": "/*\n * Copyright (c) 2017-present Muneeb Samuels. All Rights Reserved. See License.txt for license information.\n */\n\nimport { call, put, select, all } from 'redux-saga/effects'\nimport { SearchActions, CustomerActions } from 'actions'\nimport { SearchTypes } from 'action_types'\nimport { filter, isEmpty } from 'lodash'\n\nexport const searchCustomers = function * searchCustomers (action) {\n  try {\n    if (isEmpty(action.query)) {\n      // reset the customers state\n      yield put(SearchActions.clearSearchResults())\n      yield put(CustomerActions.customersRequest())\n    } else {\n      const state = yield select()\n      const id = state.entities.user.id\n      const response = yield call(SearchActions.search, action.query)\n      const results = yield all(filter(response.hits, (hit) => {\n        // filter our search results\n        return hit.createdBy === id\n      }).map((hit) => {\n        // get the document from the firestore cache.\n        return CustomerActions.getCustomerById(hit.objectID)\n      }))\n      yield put({ type: SearchTypes.RECEIVED_SEARCH_CUSTOMERS, data: results })\n      yield put(SearchActions.searchCustomersSuccess())\n    }\n  } catch (error) {\n    yield put(SearchActions.searchCustomersFailure(error))\n  }\n}\n",
     "static": true,
     "longname": "/Users/muneeb/dev/redblade-redux/src/sagas/search/tasks.js",
     "access": "public",
@@ -1417,7 +1396,9 @@
     "params": [
       {
         "name": "action",
-        "types": ["*"]
+        "types": [
+          "*"
+        ]
       }
     ],
     "return": null
@@ -1426,8 +1407,7 @@
     "__docId__": 87,
     "kind": "file",
     "name": "src/sagas/user/index.js",
-    "content":
-      "/*\n * Copyright (c) 2017-present Muneeb Samuels. All Rights Reserved. See License.txt for license information.\n */\n\nimport { all, fork, takeLatest } from 'redux-saga/effects'\nimport { UserTypes } from 'action_types'\nimport * as Tasks from 'sagas/user/tasks'\n\nconst loginRequestWatcher = function * loginRequestWatcher () {\n  yield takeLatest(UserTypes.LOGIN_REQUEST, Tasks.login)\n}\n\nconst confirmationRequestWatcher = function * confirmationRequestWatcher () {\n  yield takeLatest(UserTypes.CONFIRMATION_REQUEST, Tasks.confirm)\n}\n\nconst signOutRequestWatcher = function * signOutRequestWatcher () {\n  yield takeLatest(UserTypes.SIGN_OUT_REQUEST, Tasks.signOut)\n}\n\nconst sessionTokenRequestWatcher = function * sessionTokenRequestWatcher () {\n  yield takeLatest(UserTypes.SESSION_TOKEN_REQUEST, Tasks.subscribeToAuthChange)\n}\n\nconst root = function * root () {\n  yield (all([\n    fork(loginRequestWatcher),\n    fork(confirmationRequestWatcher),\n    fork(signOutRequestWatcher),\n    fork(sessionTokenRequestWatcher)\n  ]))\n}\n\nexport default root\n",
+    "content": "/*\n * Copyright (c) 2017-present Muneeb Samuels. All Rights Reserved. See License.txt for license information.\n */\n\nimport { all, fork, takeLatest } from 'redux-saga/effects'\nimport { UserTypes } from 'action_types'\nimport * as Tasks from 'sagas/user/tasks'\n\nconst loginRequestWatcher = function * loginRequestWatcher () {\n  yield takeLatest(UserTypes.LOGIN_REQUEST, Tasks.login)\n}\n\nconst confirmationRequestWatcher = function * confirmationRequestWatcher () {\n  yield takeLatest(UserTypes.CONFIRMATION_REQUEST, Tasks.confirm)\n}\n\nconst signOutRequestWatcher = function * signOutRequestWatcher () {\n  yield takeLatest(UserTypes.SIGN_OUT_REQUEST, Tasks.signOut)\n}\n\nconst sessionTokenRequestWatcher = function * sessionTokenRequestWatcher () {\n  yield takeLatest(UserTypes.SESSION_TOKEN_REQUEST, Tasks.subscribeToAuthChange)\n}\n\nconst root = function * root () {\n  yield (all([\n    fork(loginRequestWatcher),\n    fork(confirmationRequestWatcher),\n    fork(signOutRequestWatcher),\n    fork(sessionTokenRequestWatcher)\n  ]))\n}\n\nexport default root\n",
     "static": true,
     "longname": "/Users/muneeb/dev/redblade-redux/src/sagas/user/index.js",
     "access": "public",
@@ -1537,8 +1517,7 @@
     "__docId__": 93,
     "kind": "file",
     "name": "src/sagas/user/tasks.js",
-    "content":
-      "/*\n * Copyright (c) 2017-present Muneeb Samuels. All Rights Reserved. See License.txt for license information.\n */\n\nimport { eventChannel, END } from 'redux-saga'\nimport { select, take, call, put } from 'redux-saga/effects'\nimport { UserActions } from 'actions'\nimport { UserTypes } from 'action_types'\nimport { isEmpty } from 'lodash'\n\nfunction createAuthChannel () {\n  return eventChannel(emit => {\n    const {getFirebase} = require('react-redux-firebase')\n    const firebase = getFirebase()\n    const unsubscribe = firebase.auth().onAuthStateChanged({\n      next: (user) => {\n        if (user) {\n          emit(user)\n        } else {\n          emit('')\n        }\n      },\n      error: (error) => {\n        emit(END)\n        throw error\n      }\n    })\n\n    return () => {\n      unsubscribe()\n    }\n  })\n}\n\nexport const login = function * login (args) {\n  try {\n    const confirmationResult = yield call(UserActions.login, args.phoneNumber, args.recaptureResult)\n    yield put(UserActions.loginSuccess(confirmationResult.verificationId))\n  } catch (error) {\n    yield put(UserActions.loginFailure(error))\n  }\n}\n\nexport const confirm = function * confirm (args) {\n  try {\n    const state = yield select()\n    const verificationId = state.entities.user.verificationId\n    if (!isEmpty(verificationId)) {\n      yield call(UserActions.confirm, verificationId, args.code)\n      yield put(UserActions.confirmationSuccess())\n    }\n  } catch (error) {\n    yield put(UserActions.confirmationFailure(error))\n  }\n}\n\nexport const signOut = function * signOut () {\n  try {\n    yield call(UserActions.signOut)\n    yield put(UserActions.signOutSuccess())\n  } catch (error) {\n    yield put(UserActions.signOutFailure(error))\n  }\n}\n\nexport const subscribeToAuthChange = function * sessionTokenListener () {\n  try {\n    const authChannel = yield call(createAuthChannel)\n    while (true) {\n      try {\n        const result = yield take(authChannel)\n        if (!isEmpty(result)) {\n          yield put({ type: UserTypes.RECEIVED_ME, data: result.toJSON() })\n          yield put(UserActions.getSessionTokenSuccess())\n        } else {\n          yield put(UserActions.getSessionTokenFailure(new Error('Authentication required')))\n        }\n      } catch (error) {\n        yield put(UserActions.getSessionTokenFailure(error))\n      }\n    }\n  } catch (error) {\n// eslint-disable-next-line no-console\n    console.log('unable to create auth subscription', error)\n  }\n}\n",
+    "content": "/*\n * Copyright (c) 2017-present Muneeb Samuels. All Rights Reserved. See License.txt for license information.\n */\n\nimport { eventChannel, END } from 'redux-saga'\nimport { select, take, call, put } from 'redux-saga/effects'\nimport { UserActions } from 'actions'\nimport { UserTypes } from 'action_types'\nimport { isEmpty } from 'lodash'\n\nfunction createAuthChannel () {\n  return eventChannel(emit => {\n    const {getFirebase} = require('react-redux-firebase')\n    const firebase = getFirebase()\n    const unsubscribe = firebase.auth().onAuthStateChanged({\n      next: (user) => {\n        if (user) {\n          emit(user)\n        } else {\n          emit('')\n        }\n      },\n      error: (error) => {\n        emit(END)\n        throw error\n      }\n    })\n\n    return () => {\n      unsubscribe()\n    }\n  })\n}\n\nexport const login = function * login (args) {\n  try {\n    const confirmationResult = yield call(UserActions.login, args.phoneNumber, args.recaptureResult)\n    yield put(UserActions.loginSuccess(confirmationResult.verificationId))\n  } catch (error) {\n    yield put(UserActions.loginFailure(error))\n  }\n}\n\nexport const confirm = function * confirm (args) {\n  try {\n    const state = yield select()\n    const verificationId = state.entities.user.verificationId\n    if (!isEmpty(verificationId)) {\n      yield call(UserActions.confirm, verificationId, args.code)\n      yield put(UserActions.confirmationSuccess())\n    }\n  } catch (error) {\n    yield put(UserActions.confirmationFailure(error))\n  }\n}\n\nexport const signOut = function * signOut () {\n  try {\n    yield call(UserActions.signOut)\n    yield put(UserActions.signOutSuccess())\n  } catch (error) {\n    yield put(UserActions.signOutFailure(error))\n  }\n}\n\nexport const subscribeToAuthChange = function * sessionTokenListener () {\n  try {\n    const authChannel = yield call(createAuthChannel)\n    while (true) {\n      try {\n        const result = yield take(authChannel)\n        if (!isEmpty(result)) {\n          yield put({ type: UserTypes.RECEIVED_ME, data: result.toJSON() })\n          yield put(UserActions.getSessionTokenSuccess())\n        } else {\n          yield put(UserActions.getSessionTokenFailure(new Error('Authentication required')))\n        }\n      } catch (error) {\n        yield put(UserActions.getSessionTokenFailure(error))\n      }\n    }\n  } catch (error) {\n// eslint-disable-next-line no-console\n    console.log('unable to create auth subscription', error)\n  }\n}\n",
     "static": true,
     "longname": "/Users/muneeb/dev/redblade-redux/src/sagas/user/tasks.js",
     "access": "public",
@@ -1563,7 +1542,9 @@
     "undocument": true,
     "params": [],
     "return": {
-      "types": ["*"]
+      "types": [
+        "*"
+      ]
     },
     "ignore": true
   },
@@ -1586,7 +1567,9 @@
     "params": [
       {
         "name": "args",
-        "types": ["*"]
+        "types": [
+          "*"
+        ]
       }
     ],
     "return": null
@@ -1610,7 +1593,9 @@
     "params": [
       {
         "name": "args",
-        "types": ["*"]
+        "types": [
+          "*"
+        ]
       }
     ],
     "return": null
@@ -1657,11 +1642,9 @@
     "__docId__": 99,
     "kind": "file",
     "name": "src/store/configureStore.dev.js",
-    "content":
-      "/*\n * Copyright (c) 2017-present Muneeb Samuels. All Rights Reserved. See License.txt for license information.\n */\n\nimport { applyMiddleware, combineReducers, compose, createStore } from 'redux'\nimport { createLogger } from 'redux-logger'\nimport createActionBuffer from 'redux-action-buffer'\nimport thunk from 'redux-thunk'\nimport createSagaMiddleware from 'redux-saga'\nimport { autoRehydrate, persistStore } from 'redux-persist'\nimport { REHYDRATE } from 'redux-persist/constants'\nimport serviceReducer from '../reducers'\nimport firebase from 'firebase'\nimport 'firebase/firestore'\nimport { getFirebase, reactReduxFirebase } from 'react-redux-firebase'\nimport { reduxFirestore } from 'redux-firestore'\nimport { AppActions } from 'actions'\nimport Config from 'Config'\n\nconst logger = createLogger()\n\n// create the saga middleware\nconst sagaMiddleware = createSagaMiddleware({\n  onError: (error) => {\n// eslint-disable-next-line no-console\n    console.log('saga error', error)\n  }\n})\n\n// eslint-disable-next-line immutable/no-let\nlet middleware = [\n  thunk,\n  thunk.withExtraArgument(getFirebase),\n  sagaMiddleware,\n  logger,\n  createActionBuffer(REHYDRATE)\n]\n\nfunction createReducer (...reducers) {\n  return combineReducers(Object.assign({}, ...reducers))\n}\n\n/**\n * ## configureStore\n * @param {Object} storage - redux-persist storage\n * @param {Object} firebaseConfig - firebase configuration\n * @param {Object} rrfConfig - react-redux-firebase config\n * @param {Object} algoliaConfig - optional algolia configuration\n * @param {Object} appReducer - optional appReducer\n * @return {Object} store\n */\nexport function configureStore (storage, firebaseConfig, rrfConfig, algoliaConfig = {}, appReducer) {\n  firebase.initializeApp(firebaseConfig)\n  firebase.firestore()\n\n  // allow the firestore to work offline\n  firebase.firestore().enablePersistence()\n\n  Config.config = {\n    algolia: algoliaConfig,\n    firebase: firebaseConfig\n  }\n\n  const store = createStore(createReducer(serviceReducer, appReducer),\n    // eslint-disable-next-line no-undefined\n    undefined,\n    compose(\n      reactReduxFirebase(firebase, rrfConfig),\n      reduxFirestore(firebase),\n      autoRehydrate({log: true}),\n      applyMiddleware(...middleware)\n    )\n  )\n  persistStore(store, {storage: storage, blacklist: ['requests']})\n  store.dispatch(AppActions.appInitStarted())\n  return store\n}\n\nexport {\n  sagaMiddleware\n}\n",
+    "content": "/*\n * Copyright (c) 2017-present Muneeb Samuels. All Rights Reserved. See License.txt for license information.\n */\n\nimport { applyMiddleware, combineReducers, compose, createStore } from 'redux'\nimport { createLogger } from 'redux-logger'\nimport createActionBuffer from 'redux-action-buffer'\nimport thunk from 'redux-thunk'\nimport createSagaMiddleware from 'redux-saga'\nimport { autoRehydrate, persistStore } from 'redux-persist'\nimport { REHYDRATE } from 'redux-persist/constants'\nimport serviceReducer from '../reducers'\nimport firebase from 'firebase'\nimport 'firebase/firestore'\nimport { getFirebase, reactReduxFirebase } from 'react-redux-firebase'\nimport { reduxFirestore } from 'redux-firestore'\nimport { AppActions } from 'actions'\nimport Config from 'Config'\n\nconst logger = createLogger()\n\n// create the saga middleware\nconst sagaMiddleware = createSagaMiddleware({\n  onError: (error) => {\n// eslint-disable-next-line no-console\n    console.log('saga error', error)\n  }\n})\n\n// eslint-disable-next-line immutable/no-let\nlet middleware = [\n  thunk,\n  thunk.withExtraArgument(getFirebase),\n  sagaMiddleware,\n  logger,\n  createActionBuffer(REHYDRATE)\n]\n\nfunction createReducer (...reducers) {\n  return combineReducers(Object.assign({}, ...reducers))\n}\n\n/**\n * ## configureStore\n * @param {Object} storage - redux-persist storage\n * @param {Object} firebaseConfig - firebase configuration\n * @param {Object} rrfConfig - react-redux-firebase config\n * @param {Object} algoliaConfig - optional algolia configuration\n * @param {Object} appReducer - optional appReducer\n * @return {Object} store\n */\nexport function configureStore (storage, firebaseConfig, rrfConfig, algoliaConfig = {}, appReducer) {\n  firebase.initializeApp(firebaseConfig)\n  firebase.firestore()\n\n  // allow the firestore to work offline\n  firebase.firestore().enablePersistence()\n\n  Config.config = {\n    algolia: algoliaConfig,\n    firebase: firebaseConfig\n  }\n\n  const store = createStore(createReducer(serviceReducer, appReducer),\n    // eslint-disable-next-line no-undefined\n    undefined,\n    compose(\n      reactReduxFirebase(firebase, rrfConfig),\n      reduxFirestore(firebase),\n      autoRehydrate({log: true}),\n      applyMiddleware(...middleware)\n    )\n  )\n  persistStore(store, {storage: storage, blacklist: ['requests']})\n  store.dispatch(AppActions.appInitStarted())\n  return store\n}\n\nexport {\n  sagaMiddleware\n}\n",
     "static": true,
-    "longname":
-      "/Users/muneeb/dev/redblade-redux/src/store/configureStore.dev.js",
+    "longname": "/Users/muneeb/dev/redblade-redux/src/store/configureStore.dev.js",
     "access": "public",
     "description": null,
     "lineNumber": 1
@@ -1681,7 +1664,9 @@
     "lineNumber": 20,
     "undocument": true,
     "type": {
-      "types": ["*"]
+      "types": [
+        "*"
+      ]
     },
     "ignore": true
   },
@@ -1700,7 +1685,9 @@
     "lineNumber": 31,
     "undocument": true,
     "type": {
-      "types": ["undefined[]"]
+      "types": [
+        "undefined[]"
+      ]
     },
     "ignore": true
   },
@@ -1723,12 +1710,16 @@
     "params": [
       {
         "name": "reducers",
-        "types": ["...*"],
+        "types": [
+          "...*"
+        ],
         "spread": true
       }
     ],
     "return": {
-      "types": ["*"]
+      "types": [
+        "*"
+      ]
     },
     "ignore": true
   },
@@ -1750,7 +1741,9 @@
     "params": [
       {
         "nullable": null,
-        "types": ["Object"],
+        "types": [
+          "Object"
+        ],
         "spread": false,
         "optional": false,
         "name": "storage",
@@ -1758,7 +1751,9 @@
       },
       {
         "nullable": null,
-        "types": ["Object"],
+        "types": [
+          "Object"
+        ],
         "spread": false,
         "optional": false,
         "name": "firebaseConfig",
@@ -1766,7 +1761,9 @@
       },
       {
         "nullable": null,
-        "types": ["Object"],
+        "types": [
+          "Object"
+        ],
         "spread": false,
         "optional": false,
         "name": "rrfConfig",
@@ -1774,7 +1771,9 @@
       },
       {
         "nullable": null,
-        "types": ["Object"],
+        "types": [
+          "Object"
+        ],
         "spread": false,
         "optional": false,
         "name": "algoliaConfig",
@@ -1782,7 +1781,9 @@
       },
       {
         "nullable": null,
-        "types": ["Object"],
+        "types": [
+          "Object"
+        ],
         "spread": false,
         "optional": false,
         "name": "appReducer",
@@ -1791,7 +1792,9 @@
     ],
     "return": {
       "nullable": null,
-      "types": ["Object"],
+      "types": [
+        "Object"
+      ],
       "spread": false,
       "description": "store"
     }
@@ -1811,18 +1814,18 @@
     "lineNumber": 23,
     "undocument": true,
     "type": {
-      "types": ["*"]
+      "types": [
+        "*"
+      ]
     }
   },
   {
     "__docId__": 105,
     "kind": "file",
     "name": "src/store/configureStore.prod.js",
-    "content":
-      "/*\n * Copyright (c) 2017-present Muneeb Samuels. All Rights Reserved. See License.txt for license information.\n */\n\nimport { applyMiddleware, combineReducers, compose, createStore } from 'redux'\nimport createActionBuffer from 'redux-action-buffer'\nimport thunk from 'redux-thunk'\nimport createSagaMiddleware from 'redux-saga'\nimport { autoRehydrate, persistStore } from 'redux-persist'\nimport { REHYDRATE } from 'redux-persist/constants'\nimport serviceReducer from '../reducers'\nimport firebase from 'firebase'\nimport 'firebase/firestore'\nimport { getFirebase, reactReduxFirebase } from 'react-redux-firebase'\nimport { reduxFirestore } from 'redux-firestore'\nimport { AppActions } from 'actions'\n\n// create the saga middleware\nconst sagaMiddleware = createSagaMiddleware({\n  onError: (error) => {\n// eslint-disable-next-line no-console\n    console.log('saga error', error)\n  }\n})\n\n// eslint-disable-next-line immutable/no-let\nlet middleware = [\n  thunk,\n  thunk.withExtraArgument(getFirebase),\n  sagaMiddleware,\n  createActionBuffer(REHYDRATE)\n]\n\nfunction createReducer (...reducers) {\n  return combineReducers(Object.assign({}, ...reducers))\n}\n\n/**\n * ## configureStore\n * @param {Object} storage - redux-persist storage\n * @param {Object} firebaseConfig - firebase configuration\n * @param {Object} rrfConfig - react-redux-firebase config\n * @param {Object} appReducer - optional appReducer\n * @return {Object} store\n */\nexport function configureStore (storage, firebaseConfig, rrfConfig, appReducer) {\n  firebase.initializeApp(firebaseConfig)\n  firebase.firestore()\n\n  const store = createStore(createReducer(serviceReducer, appReducer),\n    // eslint-disable-next-line no-undefined\n    undefined,\n    compose(\n      reactReduxFirebase(firebase, rrfConfig),\n      reduxFirestore(firebase),\n      applyMiddleware(...middleware),\n      autoRehydrate({log: false})\n    )\n  )\n  persistStore(store, {storage: storage})\n  store.dispatch(AppActions.appInitStarted())\n  return store\n}\n\nexport {\n  sagaMiddleware\n}\n",
+    "content": "/*\n * Copyright (c) 2017-present Muneeb Samuels. All Rights Reserved. See License.txt for license information.\n */\n\nimport { applyMiddleware, combineReducers, compose, createStore } from 'redux'\nimport createActionBuffer from 'redux-action-buffer'\nimport thunk from 'redux-thunk'\nimport createSagaMiddleware from 'redux-saga'\nimport { autoRehydrate, persistStore } from 'redux-persist'\nimport { REHYDRATE } from 'redux-persist/constants'\nimport serviceReducer from '../reducers'\nimport firebase from 'firebase'\nimport 'firebase/firestore'\nimport { getFirebase, reactReduxFirebase } from 'react-redux-firebase'\nimport { reduxFirestore } from 'redux-firestore'\nimport { AppActions } from 'actions'\nimport Config from 'Config'\n\n// create the saga middleware\nconst sagaMiddleware = createSagaMiddleware({\n  onError: (error) => {\n// eslint-disable-next-line no-console\n    console.log('saga error', error)\n  }\n})\n\n// eslint-disable-next-line immutable/no-let\nlet middleware = [\n  thunk,\n  thunk.withExtraArgument(getFirebase),\n  sagaMiddleware,\n  createActionBuffer(REHYDRATE)\n]\n\nfunction createReducer (...reducers) {\n  return combineReducers(Object.assign({}, ...reducers))\n}\n\n/**\n * ## configureStore\n * @param {Object} storage - redux-persist storage\n * @param {Object} firebaseConfig - firebase configuration\n * @param {Object} rrfConfig - react-redux-firebase config\n * @param {Object} algoliaConfig - optional algolia configuration\n * @param {Object} appReducer - optional appReducer\n * @return {Object} store\n */\nexport function configureStore (storage, firebaseConfig, rrfConfig, algoliaConfig = {}, appReducer) {\n  firebase.initializeApp(firebaseConfig)\n  firebase.firestore()\n\n  // allow the firestore to work offline\n  firebase.firestore().enablePersistence()\n\n  Config.config = {\n    algolia: algoliaConfig,\n    firebase: firebaseConfig\n  }\n\n  const store = createStore(createReducer(serviceReducer, appReducer),\n    // eslint-disable-next-line no-undefined\n    undefined,\n    compose(\n      reactReduxFirebase(firebase, rrfConfig),\n      reduxFirestore(firebase),\n      autoRehydrate({log: false}),\n      applyMiddleware(...middleware)\n    )\n  )\n  persistStore(store, {storage: storage, blacklist: ['requests']})\n  store.dispatch(AppActions.appInitStarted())\n  return store\n}\n\nexport {\n  sagaMiddleware\n}\n",
     "static": true,
-    "longname":
-      "/Users/muneeb/dev/redblade-redux/src/store/configureStore.prod.js",
+    "longname": "/Users/muneeb/dev/redblade-redux/src/store/configureStore.prod.js",
     "access": "public",
     "description": null,
     "lineNumber": 1
@@ -1839,10 +1842,12 @@
     "importPath": "altair-redux/src/store/configureStore.prod.js",
     "importStyle": null,
     "description": null,
-    "lineNumber": 27,
+    "lineNumber": 28,
     "undocument": true,
     "type": {
-      "types": ["undefined[]"]
+      "types": [
+        "undefined[]"
+      ]
     },
     "ignore": true
   },
@@ -1860,17 +1865,21 @@
     "importPath": "altair-redux/src/store/configureStore.prod.js",
     "importStyle": null,
     "description": null,
-    "lineNumber": 34,
+    "lineNumber": 35,
     "undocument": true,
     "params": [
       {
         "name": "reducers",
-        "types": ["...*"],
+        "types": [
+          "...*"
+        ],
         "spread": true
       }
     ],
     "return": {
-      "types": ["*"]
+      "types": [
+        "*"
+      ]
     },
     "ignore": true
   },
@@ -1888,11 +1897,13 @@
     "importPath": "altair-redux/src/store/configureStore.prod.js",
     "importStyle": "{configureStore}",
     "description": "## configureStore",
-    "lineNumber": 46,
+    "lineNumber": 48,
     "params": [
       {
         "nullable": null,
-        "types": ["Object"],
+        "types": [
+          "Object"
+        ],
         "spread": false,
         "optional": false,
         "name": "storage",
@@ -1900,7 +1911,9 @@
       },
       {
         "nullable": null,
-        "types": ["Object"],
+        "types": [
+          "Object"
+        ],
         "spread": false,
         "optional": false,
         "name": "firebaseConfig",
@@ -1908,7 +1921,9 @@
       },
       {
         "nullable": null,
-        "types": ["Object"],
+        "types": [
+          "Object"
+        ],
         "spread": false,
         "optional": false,
         "name": "rrfConfig",
@@ -1916,7 +1931,19 @@
       },
       {
         "nullable": null,
-        "types": ["Object"],
+        "types": [
+          "Object"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "algoliaConfig",
+        "description": "optional algolia configuration"
+      },
+      {
+        "nullable": null,
+        "types": [
+          "Object"
+        ],
         "spread": false,
         "optional": false,
         "name": "appReducer",
@@ -1925,7 +1952,9 @@
     ],
     "return": {
       "nullable": null,
-      "types": ["Object"],
+      "types": [
+        "Object"
+      ],
       "spread": false,
       "description": "store"
     }
@@ -1942,18 +1971,19 @@
     "importPath": "altair-redux/src/store/configureStore.prod.js",
     "importStyle": "{sagaMiddleware}",
     "description": null,
-    "lineNumber": 19,
+    "lineNumber": 20,
     "undocument": true,
     "type": {
-      "types": ["*"]
+      "types": [
+        "*"
+      ]
     }
   },
   {
     "__docId__": 110,
     "kind": "file",
     "name": "src/store/index.js",
-    "content":
-      "/*\n * Copyright (c) 2017-present Muneeb Samuels. All Rights Reserved. See License.txt for license information.\n */\n\n/* eslint-disable global-require, no-process-env, immutable/no-mutation */\nif (process.env.NODE_ENV === 'production') {\n  module.exports = require('./configureStore.prod.js')\n} else {\n  module.exports = require('./configureStore.dev.js')\n}\n\n/* eslint-enable global-require, no-process-env, immutable/no-mutation */\n",
+    "content": "/*\n * Copyright (c) 2017-present Muneeb Samuels. All Rights Reserved. See License.txt for license information.\n */\n\n/* eslint-disable global-require, no-process-env, immutable/no-mutation */\nif (process.env.NODE_ENV === 'production') {\n  module.exports = require('./configureStore.prod.js')\n} else {\n  module.exports = require('./configureStore.dev.js')\n}\n\n/* eslint-enable global-require, no-process-env, immutable/no-mutation */\n",
     "static": true,
     "longname": "/Users/muneeb/dev/redblade-redux/src/store/index.js",
     "access": "public",
@@ -1964,8 +1994,7 @@
     "__docId__": 111,
     "kind": "file",
     "name": "src/utils/key_mirror.js",
-    "content":
-      "/**\n * Copyright (c) 2013-present, Facebook, Inc.\n * All rights reserved.\n *\n * This source code is licensed under the BSD-style license found in the\n * LICENSE file in the root directory of this source tree. An additional grant\n * of patent rights can be found in the PATENTS file in the same directory.\n *\n */\n\n/**\n * Constructs an enumeration with keys equal to their value.\n *\n * For example:\n *\n *   var COLORS = keyMirror({blue: null, red: null});\n *   var myColor = COLORS.blue;\n *   var isColorValid = !!COLORS[myColor];\n *\n * The last line could not be performed if the values of the generated enum were\n * not equal to their keys.\n *\n *   Input:  {key1: val1, key2: val2}\n *   Output: {key1: key1, key2: key2}\n *\n * @param {object} obj\n * @param {string} prefix - optional prefix used in redux actions\n * @return {object}\n */\nexport default function keyMirror (obj, prefix = '') {\n  if (!(obj instanceof Object && !Array.isArray(obj))) {\n    throw new Error('keyMirror(...): Argument must be an object.')\n  }\n\n  const ret = {}\n  for (const key in obj) {\n    if (!obj.hasOwnProperty(key)) {\n      continue\n    }\n\n    ret[key] = `${prefix}${key}`\n  }\n\n  return ret\n}\n",
+    "content": "/**\n * Copyright (c) 2013-present, Facebook, Inc.\n * All rights reserved.\n *\n * This source code is licensed under the BSD-style license found in the\n * LICENSE file in the root directory of this source tree. An additional grant\n * of patent rights can be found in the PATENTS file in the same directory.\n *\n */\n\n/**\n * Constructs an enumeration with keys equal to their value.\n *\n * For example:\n *\n *   var COLORS = keyMirror({blue: null, red: null});\n *   var myColor = COLORS.blue;\n *   var isColorValid = !!COLORS[myColor];\n *\n * The last line could not be performed if the values of the generated enum were\n * not equal to their keys.\n *\n *   Input:  {key1: val1, key2: val2}\n *   Output: {key1: key1, key2: key2}\n *\n * @param {object} obj\n * @param {string} prefix - optional prefix used in redux actions\n * @return {object}\n */\nexport default function keyMirror (obj, prefix = '') {\n  if (!(obj instanceof Object && !Array.isArray(obj))) {\n    throw new Error('keyMirror(...): Argument must be an object.')\n  }\n\n  const ret = {}\n  for (const key in obj) {\n    if (!obj.hasOwnProperty(key)) {\n      continue\n    }\n\n    ret[key] = `${prefix}${key}`\n  }\n\n  return ret\n}\n",
     "static": true,
     "longname": "/Users/muneeb/dev/redblade-redux/src/utils/key_mirror.js",
     "access": "public",
@@ -1985,13 +2014,14 @@
     "export": true,
     "importPath": "altair-redux/src/utils/key_mirror.js",
     "importStyle": "keyMirror",
-    "description":
-      "Constructs an enumeration with keys equal to their value.\n\nFor example:\n\n  var COLORS = keyMirror({blue: null, red: null});\n  var myColor = COLORS.blue;\n  var isColorValid = !!COLORS[myColor];\n\nThe last line could not be performed if the values of the generated enum were\nnot equal to their keys.\n\n  Input:  {key1: val1, key2: val2}\n  Output: {key1: key1, key2: key2}",
+    "description": "Constructs an enumeration with keys equal to their value.\n\nFor example:\n\n  var COLORS = keyMirror({blue: null, red: null});\n  var myColor = COLORS.blue;\n  var isColorValid = !!COLORS[myColor];\n\nThe last line could not be performed if the values of the generated enum were\nnot equal to their keys.\n\n  Input:  {key1: val1, key2: val2}\n  Output: {key1: key1, key2: key2}",
     "lineNumber": 30,
     "params": [
       {
         "nullable": null,
-        "types": ["object"],
+        "types": [
+          "object"
+        ],
         "spread": false,
         "optional": false,
         "name": "obj",
@@ -1999,7 +2029,9 @@
       },
       {
         "nullable": null,
-        "types": ["string"],
+        "types": [
+          "string"
+        ],
         "spread": false,
         "optional": false,
         "name": "prefix",
@@ -2008,15 +2040,16 @@
     ],
     "return": {
       "nullable": null,
-      "types": ["object"],
+      "types": [
+        "object"
+      ],
       "spread": false,
       "description": ""
     }
   },
   {
     "kind": "index",
-    "content":
-      "![logo](./assets/logo.png)\n# Altair Redux\n\nThe project purpose is to demonstrate how redux can be used to consolidate an apps storage, utilities and logic between mobile clients (react-native) and web clients (react).\n\n[Redux](http://redux.js.org/docs/introduction/) is the backbone for this project and many of the design decisions and patterns stem from it.\n\nAltair is a simple customer management application I built as a coding test for [Redblade Software](http://www.redblade.io).\n\n# Requirements\n- [Firebase](https://firebase.google.com) - a realtime database for web/mobile applications created by Google Inc.\n- [Algolia Search](https://algolia.com) - used to index our firebase data store and to provide fulltext search.\n- [NodeJS](https://www.nodejs.org) (8.7.0)\n\n\n\n# Usage\n### Web usage\nTo hook up an application to the altair-redux store:\n\n```\nimport { configureStore } from 'altair-redux';\n```\n```\nimport localForage from 'localforage';\n```\n\nAcquire your firebase web config from the [firebase console](https://console.firebase.google.com).\n\n```\n// firebase configuration\nconst config = {\n\tapiKey: '',\n\tauthDomain: '',\n\tdatabaseURL: '',\n\tprojectId: '',\n\tstorageBucket: '',\n\tmessagingSenderId: ''\n}\n```\n\n```\nconst store = configureStore(\n  localForage,\n  config,\n  {\n    userProfile: 'users',\n    useFirestoreForProfile: true\n  },\n  {\n    appId: 'ALGOLIA_APP_ID'\n  }\n);\n```\n\n### React native usage\n\n```\nimport { AsyncStorage } from 'react-native';\n```\n```\nimport { configureStore } from 'altair-redux';\n```\n```\nconst store = configureStore(AsyncStorage, {}, {\n\tenableRedirectHandling : false,\n\tuserProfile : 'users',\n\tuseFirestoreForProfile : true\n}, { appId: 'ALGOLIA_APP_ID' });\n```",
+    "content": "![logo](./assets/logo.png)\n# Altair Redux\n\nThe project purpose is to demonstrate how redux can be used to consolidate an apps storage, utilities and logic between mobile clients (react-native) and web clients (react).\n\n[Redux](http://redux.js.org/docs/introduction/) is the backbone for this project and many of the design decisions and patterns stem from it.\n\nAltair is a simple customer management application I built as a coding test for [Redblade Software](http://www.redblade.io).\n\n# Requirements\n- [Firebase](https://firebase.google.com) - a realtime database for web/mobile applications created by Google Inc.\n- [Algolia Search](https://algolia.com) - used to index our firebase data store and to provide fulltext search.\n- [NodeJS](https://www.nodejs.org) (8.7.0)\n\n\n\n# Usage\n### Web usage\nTo hook up an application to the altair-redux store:\n\n```\nimport { configureStore } from 'altair-redux';\n```\n```\nimport localForage from 'localforage';\n```\n\nAcquire your firebase web config from the [firebase console](https://console.firebase.google.com).\n\n```\n// firebase configuration\nconst config = {\n\tapiKey: '',\n\tauthDomain: '',\n\tdatabaseURL: '',\n\tprojectId: '',\n\tstorageBucket: '',\n\tmessagingSenderId: ''\n}\n```\n\n```\nconst store = configureStore(\n  localForage,\n  config,\n  {\n    userProfile: 'users',\n    useFirestoreForProfile: true\n  },\n  {\n    appId: 'ALGOLIA_APP_ID'\n  }\n);\n```\n\n### React native usage\n\n```\nimport { AsyncStorage } from 'react-native';\n```\n```\nimport { configureStore } from 'altair-redux';\n```\n```\nconst store = configureStore(AsyncStorage, {}, {\n\tenableRedirectHandling : false,\n\tuserProfile : 'users',\n\tuseFirestoreForProfile : true\n}, { appId: 'ALGOLIA_APP_ID' });\n```\n",
     "longname": "/Users/muneeb/dev/redblade-redux/README.md",
     "name": "./README.md",
     "static": true,
@@ -2024,8 +2057,7 @@
   },
   {
     "kind": "packageJSON",
-    "content":
-      "{\n  \"name\": \"altair-redux\",\n  \"version\": \"1.0.0\",\n  \"author\": \"Muneeb Samuels\",\n  \"description\": \"Redux for my test application - Altair customer manager\",\n  \"repository\": \"https://github.com/muneebs/altair-redux\",\n  \"license\": \"MIT\",\n  \"keywords\": [\"Customer management\", \"redux\", \"react\", \"es6\", \"firebase\", \"firestore\"],\n  \"main\": \"lib/index.js\",\n  \"react-native\": \"lib/index.react-native.js\",\n  \"module\": \"es/index.js\",\n  \"jsnext:main\": \"es/index.js\",\n  \"typings\": \"./index.d.ts\",\n  \"unpkg\": \"dist/altair-redux.min.js\",\n  \"dependencies\": {\n    \"immutable\": \"3.8.1\",\n    \"key-mirror\": \"^1.0.1\",\n    \"lodash\": \"^4.17.4\",\n    \"uuid\": \"^3.1.0\"\n  },\n  \"peerDependencies\": {\n    \"algoliasearch\": \"^3.24.5\",\n    \"firebase\": \"^4.6.0\",\n    \"geofire\": \"^4.1.2\",\n    \"react\": \"16.0.0-alpha.12\",\n    \"react-redux-firebase\": \"next\",\n    \"redux\": \"3.7.2\",\n    \"redux-action-buffer\": \"1.1.0\",\n    \"redux-firestore\": \"latest\",\n    \"redux-logger\": \"3.0.6\",\n    \"redux-persist\": \"^4.10.1\",\n    \"redux-saga\": \"^0.16.0\",\n    \"redux-thunk\": \"^2.2.0\"\n  },\n  \"devDependencies\": {\n    \"algoliasearch\": \"^3.24.5\",\n    \"babel-cli\": \"^6.24.0\",\n    \"babel-core\": \"^6.24.0\",\n    \"babel-eslint\": \"^7.2.1\",\n    \"babel-loader\": \"^7.1.1\",\n    \"babel-plugin-add-module-exports\": \"^0.2.1\",\n    \"babel-plugin-es6-promise\": \"^1.1.1\",\n    \"babel-plugin-lodash\": \"^3.2.11\",\n    \"babel-plugin-module-resolver\": \"^2.7.1\",\n    \"babel-plugin-transform-async-to-generator\": \"^6.24.1\",\n    \"babel-plugin-transform-class-properties\": \"^6.24.1\",\n    \"babel-plugin-transform-decorators-legacy\": \"^1.3.4\",\n    \"babel-plugin-transform-object-assign\": \"^6.22.0\",\n    \"babel-plugin-transform-object-rest-spread\": \"^6.26.0\",\n    \"babel-plugin-transform-runtime\": \"^6.23.0\",\n    \"babel-preset-env\": \"^1.6.0\",\n    \"babel-preset-react\": \"^6.24.1\",\n    \"chai\": \"^4.1.2\",\n    \"chai-as-promised\": \"^7.1.1\",\n    \"child-process-promise\": \"^2.2.1\",\n    \"codecov\": \"^2.1.0\",\n    \"cross-env\": \"^5.1.1\",\n    \"docdown\": \"^0.7.2\",\n    \"documentation\": \"^4.0.0-beta15\",\n    \"documentation-markdown-api-theme\": \"^1.0.2\",\n    \"esdoc\": \"^1.0.3\",\n    \"esdoc-standard-plugin\": \"^1.0.0\",\n    \"eslint\": \"^3.19.0\",\n    \"eslint-config-standard\": \"^10.2.1\",\n    \"eslint-config-standard-react\": \"^5.0.0\",\n    \"eslint-plugin-babel\": \"^4.1.2\",\n    \"eslint-plugin-import\": \"^2.7.0\",\n    \"eslint-plugin-node\": \"^5.2.0\",\n    \"eslint-plugin-promise\": \"^3.5.0\",\n    \"eslint-plugin-react\": \"^7.4.0\",\n    \"eslint-plugin-standard\": \"^3.0.1\",\n    \"firebase\": \"^4.6.0\",\n    \"firebase-server\": \"^0.10.1\",\n    \"geofire\": \"^4.1.2\",\n    \"husky\": \"^0.14.3\",\n    \"istanbul\": \"^0.4.5\",\n    \"jsdoc-babel\": \"^0.3.0\",\n    \"jsdom\": \"^11.3.0\",\n    \"lint-staged\": \"^4.3.0\",\n    \"mocha\": \"^3.2.0\",\n    \"prettier\": \"^1.7.4\",\n    \"react\": \"16.0.0-alpha.12\",\n    \"react-addons-test-utils\": \"^15.4.2\",\n    \"react-dom\": \"^15.4.2\",\n    \"react-native-firebase\": \"^3.0.5\",\n    \"react-redux-firebase\": \"next\",\n    \"redux\": \"^3.7.2\",\n    \"redux-action-buffer\": \"^1.1.0\",\n    \"redux-firestore\": \"latest\",\n    \"redux-logger\": \"^3.0.6\",\n    \"redux-persist\": \"^4.10.1\",\n    \"redux-saga\": \"^0.16.0\",\n    \"redux-thunk\": \"^2.2.0\",\n    \"rimraf\": \"^2.6.2\",\n    \"sinon\": \"^4.0.2\",\n    \"sinon-chai\": \"^2.14.0\",\n    \"superagent\": \"^3.8.0\",\n    \"webpack\": \"^3.5.5\",\n    \"webpack-bundle-analyzer\": \"^2.3.1\",\n    \"ws\": \"^3.0.0\",\n    \"xmlhttprequest\": \"^1.8.0\"\n  },\n  \"lint-staged\": {\n    \"*.js\": [\n      \"eslint --no-ignore --fix\",\n      \"git add\"\n    ],\n    \"*.json\": [\n      \"prettier --write\",\n      \"git add\"\n    ]\n  },\n  \"scripts\": {\n    \"precommit\": \"lint-staged\",\n    \"prepush\": \"yarn test\",\n    \"clean\": \"rimraf es lib dist coverage\",\n    \"lint\": \"eslint src/** tests/**\",\n    \"lint:fix\": \"npm run lint -- --fix\",\n    \"test\": \"mocha -R spec ./tests/setup.js ./tests/** --recursive --require babel-register\",\n    \"build:commonjs\": \"cross-env BABEL_ENV=commonjs babel src --out-dir lib\",\n    \"build:es\": \"cross-env BABEL_ENV=es babel src --out-dir es\",\n    \"build:umd\": \"cross-env BABEL_ENV=commonjs NODE_ENV=development webpack src/index.js dist/altair-redux.js\",\n    \"build:umd:min\": \"cross-env BABEL_ENV=commonjs NODE_ENV=production webpack src/index.js dist/altair-redux.min.js\",\n    \"build:size\": \"cross-env SIZE=true BABEL_ENV=commonjs NODE_ENV=production webpack src/index.js dist/altair-redux.min.js\",\n    \"build:docs\": \"esdoc\",\n    \"build\": \"npm run build:commonjs && npm run build:es && npm run build:umd && npm run build:umd:min && npm run build:docs\",\n    \"watch\": \"npm run build:es -- --watch\",\n    \"prepare\": \"npm run clean && npm run build\"\n  }\n}\n",
+    "content": "{\n  \"name\": \"altair-redux\",\n  \"version\": \"1.0.0\",\n  \"author\": \"Muneeb Samuels\",\n  \"description\": \"Redux for my test application - Altair customer manager\",\n  \"repository\": \"https://github.com/muneebs/altair-redux\",\n  \"license\": \"MIT\",\n  \"keywords\": [\n    \"Customer management\",\n    \"redux\",\n    \"react\",\n    \"es6\",\n    \"firebase\",\n    \"firestore\"\n  ],\n  \"main\": \"lib/index.js\",\n  \"react-native\": \"lib/index.react-native.js\",\n  \"module\": \"es/index.js\",\n  \"jsnext:main\": \"es/index.js\",\n  \"typings\": \"./index.d.ts\",\n  \"unpkg\": \"dist/altair-redux.min.js\",\n  \"dependencies\": {\n    \"immutable\": \"3.8.1\",\n    \"key-mirror\": \"^1.0.1\",\n    \"lodash\": \"^4.17.4\",\n    \"uuid\": \"^3.1.0\"\n  },\n  \"peerDependencies\": {\n    \"algoliasearch\": \"^3.24.5\",\n    \"firebase\": \"^4.6.0\",\n    \"geofire\": \"^4.1.2\",\n    \"react\": \"16.0.0-alpha.12\",\n    \"react-redux-firebase\": \"next\",\n    \"redux\": \"3.7.2\",\n    \"redux-action-buffer\": \"1.1.0\",\n    \"redux-firestore\": \"latest\",\n    \"redux-logger\": \"3.0.6\",\n    \"redux-persist\": \"^4.10.1\",\n    \"redux-saga\": \"^0.16.0\",\n    \"redux-thunk\": \"^2.2.0\"\n  },\n  \"devDependencies\": {\n    \"algoliasearch\": \"^3.24.5\",\n    \"babel-cli\": \"^6.24.0\",\n    \"babel-core\": \"^6.24.0\",\n    \"babel-eslint\": \"^7.2.1\",\n    \"babel-loader\": \"^7.1.1\",\n    \"babel-plugin-add-module-exports\": \"^0.2.1\",\n    \"babel-plugin-es6-promise\": \"^1.1.1\",\n    \"babel-plugin-lodash\": \"^3.2.11\",\n    \"babel-plugin-module-resolver\": \"^2.7.1\",\n    \"babel-plugin-transform-async-to-generator\": \"^6.24.1\",\n    \"babel-plugin-transform-class-properties\": \"^6.24.1\",\n    \"babel-plugin-transform-decorators-legacy\": \"^1.3.4\",\n    \"babel-plugin-transform-object-assign\": \"^6.22.0\",\n    \"babel-plugin-transform-object-rest-spread\": \"^6.26.0\",\n    \"babel-plugin-transform-runtime\": \"^6.23.0\",\n    \"babel-preset-env\": \"^1.6.0\",\n    \"babel-preset-react\": \"^6.24.1\",\n    \"chai\": \"^4.1.2\",\n    \"chai-as-promised\": \"^7.1.1\",\n    \"child-process-promise\": \"^2.2.1\",\n    \"codecov\": \"^2.1.0\",\n    \"cross-env\": \"^5.1.1\",\n    \"docdown\": \"^0.7.2\",\n    \"documentation\": \"^4.0.0-beta15\",\n    \"documentation-markdown-api-theme\": \"^1.0.2\",\n    \"esdoc\": \"^1.0.3\",\n    \"esdoc-standard-plugin\": \"^1.0.0\",\n    \"eslint\": \"^3.19.0\",\n    \"eslint-config-standard\": \"^10.2.1\",\n    \"eslint-config-standard-react\": \"^5.0.0\",\n    \"eslint-plugin-babel\": \"^4.1.2\",\n    \"eslint-plugin-import\": \"^2.7.0\",\n    \"eslint-plugin-node\": \"^5.2.0\",\n    \"eslint-plugin-promise\": \"^3.5.0\",\n    \"eslint-plugin-react\": \"^7.4.0\",\n    \"eslint-plugin-standard\": \"^3.0.1\",\n    \"firebase\": \"^4.6.0\",\n    \"firebase-server\": \"^0.10.1\",\n    \"geofire\": \"^4.1.2\",\n    \"husky\": \"^0.14.3\",\n    \"istanbul\": \"^0.4.5\",\n    \"jsdoc-babel\": \"^0.3.0\",\n    \"jsdom\": \"^11.3.0\",\n    \"lint-staged\": \"^4.3.0\",\n    \"mocha\": \"^3.2.0\",\n    \"prettier\": \"^1.7.4\",\n    \"react\": \"16.0.0-alpha.12\",\n    \"react-addons-test-utils\": \"^15.4.2\",\n    \"react-dom\": \"^15.4.2\",\n    \"react-native-firebase\": \"^3.0.5\",\n    \"react-redux-firebase\": \"next\",\n    \"redux\": \"^3.7.2\",\n    \"redux-action-buffer\": \"^1.1.0\",\n    \"redux-firestore\": \"latest\",\n    \"redux-logger\": \"^3.0.6\",\n    \"redux-persist\": \"^4.10.1\",\n    \"redux-saga\": \"^0.16.0\",\n    \"redux-thunk\": \"^2.2.0\",\n    \"rimraf\": \"^2.6.2\",\n    \"sinon\": \"^4.0.2\",\n    \"sinon-chai\": \"^2.14.0\",\n    \"superagent\": \"^3.8.0\",\n    \"webpack\": \"^3.5.5\",\n    \"webpack-bundle-analyzer\": \"^2.3.1\",\n    \"ws\": \"^3.0.0\",\n    \"xmlhttprequest\": \"^1.8.0\"\n  },\n  \"lint-staged\": {\n    \"src/**/*.js\": [\"eslint --no-ignore --fix\", \"git add\"],\n    \"tests/**/*.js\": [\"eslint --no-ignore --fix\", \"git add\"],\n    \"src/**/*.json\": [\"prettier --write\", \"git add\"],\n    \"tests/**/*.json\": [\"prettier --write\", \"git add\"]\n  },\n  \"scripts\": {\n    \"precommit\": \"lint-staged\",\n    \"prepush\": \"yarn test\",\n    \"clean\": \"rimraf es lib dist coverage\",\n    \"lint\": \"eslint src/** tests/**\",\n    \"lint:fix\": \"npm run lint -- --fix\",\n    \"test\":\n      \"mocha -R spec ./tests/setup.js ./tests/** --recursive --require babel-register\",\n    \"build:commonjs\": \"cross-env BABEL_ENV=commonjs babel src --out-dir lib\",\n    \"build:es\": \"cross-env BABEL_ENV=es babel src --out-dir es\",\n    \"build:umd\":\n      \"cross-env BABEL_ENV=commonjs NODE_ENV=development webpack src/index.js dist/altair-redux.js\",\n    \"build:umd:min\":\n      \"cross-env BABEL_ENV=commonjs NODE_ENV=production webpack src/index.js dist/altair-redux.min.js\",\n    \"build:size\":\n      \"cross-env SIZE=true BABEL_ENV=commonjs NODE_ENV=production webpack src/index.js dist/altair-redux.min.js\",\n    \"build:docs\": \"esdoc\",\n    \"build\":\n      \"npm run build:commonjs && npm run build:es && npm run build:umd && npm run build:umd:min && npm run build:docs\",\n    \"watch\": \"npm run build:es -- --watch\",\n    \"prepare\": \"npm run clean && npm run build\"\n  }\n}\n",
     "longname": "/Users/muneeb/dev/redblade-redux/package.json",
     "name": "package.json",
     "static": true,

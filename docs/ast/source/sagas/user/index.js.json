@@ -216,8 +216,7 @@
         "leadingComments": [
           {
             "type": "CommentBlock",
-            "value":
-              "\n * Copyright (c) 2017-present Muneeb Samuels. All Rights Reserved. See License.txt for license information.\n ",
+            "value": "\n * Copyright (c) 2017-present Muneeb Samuels. All Rights Reserved. See License.txt for license information.\n ",
             "start": 0,
             "end": 114,
             "loc": {
@@ -1732,8 +1731,7 @@
                                         "line": 28,
                                         "column": 35
                                       },
-                                      "identifierName":
-                                        "confirmationRequestWatcher"
+                                      "identifierName": "confirmationRequestWatcher"
                                     },
                                     "name": "confirmationRequestWatcher"
                                   }
@@ -1835,8 +1833,7 @@
                                         "line": 30,
                                         "column": 35
                                       },
-                                      "identifierName":
-                                        "sessionTokenRequestWatcher"
+                                      "identifierName": "sessionTokenRequestWatcher"
                                     },
                                     "name": "sessionTokenRequestWatcher"
                                   }
@@ -2180,8 +2177,7 @@
                                           "line": 28,
                                           "column": 35
                                         },
-                                        "identifierName":
-                                          "confirmationRequestWatcher"
+                                        "identifierName": "confirmationRequestWatcher"
                                       },
                                       "name": "confirmationRequestWatcher"
                                     }
@@ -2232,8 +2228,7 @@
                                           "line": 29,
                                           "column": 30
                                         },
-                                        "identifierName":
-                                          "signOutRequestWatcher"
+                                        "identifierName": "signOutRequestWatcher"
                                       },
                                       "name": "signOutRequestWatcher"
                                     }
@@ -2284,8 +2279,7 @@
                                           "line": 30,
                                           "column": 35
                                         },
-                                        "identifierName":
-                                          "sessionTokenRequestWatcher"
+                                        "identifierName": "sessionTokenRequestWatcher"
                                       },
                                       "name": "sessionTokenRequestWatcher"
                                     }
@@ -2318,8 +2312,7 @@
   "comments": [
     {
       "type": "CommentBlock",
-      "value":
-        "\n * Copyright (c) 2017-present Muneeb Samuels. All Rights Reserved. See License.txt for license information.\n ",
+      "value": "\n * Copyright (c) 2017-present Muneeb Samuels. All Rights Reserved. See License.txt for license information.\n ",
       "start": 0,
       "end": 114,
       "loc": {
@@ -2337,8 +2330,7 @@
   "tokens": [
     {
       "type": "CommentBlock",
-      "value":
-        "\n * Copyright (c) 2017-present Muneeb Samuels. All Rights Reserved. See License.txt for license information.\n ",
+      "value": "\n * Copyright (c) 2017-present Muneeb Samuels. All Rights Reserved. See License.txt for license information.\n ",
       "start": 0,
       "end": 114,
       "loc": {

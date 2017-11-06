@@ -1,7 +1,7 @@
 {
   "type": "File",
   "start": 0,
-  "end": 598,
+  "end": 596,
   "loc": {
     "start": {
       "line": 1,
@@ -15,7 +15,7 @@
   "program": {
     "type": "Program",
     "start": 0,
-    "end": 598,
+    "end": 596,
     "loc": {
       "start": {
         "line": 1,
@@ -101,8 +101,7 @@
         "leadingComments": [
           {
             "type": "CommentBlock",
-            "value":
-              "\n * Copyright (c) 2017-present Muneeb Samuels. All Rights Reserved. See License.txt for license information.\n ",
+            "value": "\n * Copyright (c) 2017-present Muneeb Samuels. All Rights Reserved. See License.txt for license information.\n ",
             "start": 0,
             "end": 114,
             "loc": {
@@ -121,7 +120,7 @@
       {
         "type": "ExportDefaultDeclaration",
         "start": 158,
-        "end": 597,
+        "end": 595,
         "loc": {
           "start": {
             "line": 7,
@@ -129,13 +128,13 @@
           },
           "end": {
             "line": 24,
-            "column": 23
+            "column": 21
           }
         },
         "declaration": {
           "type": "CallExpression",
           "start": 173,
-          "end": 597,
+          "end": 595,
           "loc": {
             "start": {
               "line": 7,
@@ -143,7 +142,7 @@
             },
             "end": {
               "line": 24,
-              "column": 23
+              "column": 21
             }
           },
           "callee": {
@@ -834,7 +833,7 @@
             {
               "type": "StringLiteral",
               "start": 577,
-              "end": 596,
+              "end": 594,
               "loc": {
                 "start": {
                   "line": 24,
@@ -842,14 +841,14 @@
                 },
                 "end": {
                   "line": 24,
-                  "column": 22
+                  "column": 20
                 }
               },
               "extra": {
-                "rawValue": "@@redblade-redux/",
-                "raw": "'@@redblade-redux/'"
+                "rawValue": "@@altair-redux/",
+                "raw": "'@@altair-redux/'"
               },
-              "value": "@@redblade-redux/"
+              "value": "@@altair-redux/"
             }
           ],
           "leadingComments": [],
@@ -862,8 +861,7 @@
   "comments": [
     {
       "type": "CommentBlock",
-      "value":
-        "\n * Copyright (c) 2017-present Muneeb Samuels. All Rights Reserved. See License.txt for license information.\n ",
+      "value": "\n * Copyright (c) 2017-present Muneeb Samuels. All Rights Reserved. See License.txt for license information.\n ",
       "start": 0,
       "end": 114,
       "loc": {
@@ -881,8 +879,7 @@
   "tokens": [
     {
       "type": "CommentBlock",
-      "value":
-        "\n * Copyright (c) 2017-present Muneeb Samuels. All Rights Reserved. See License.txt for license information.\n ",
+      "value": "\n * Copyright (c) 2017-present Muneeb Samuels. All Rights Reserved. See License.txt for license information.\n ",
       "start": 0,
       "end": 114,
       "loc": {
@@ -2551,9 +2548,9 @@
         "binop": null,
         "updateContext": null
       },
-      "value": "@@redblade-redux/",
+      "value": "@@altair-redux/",
       "start": 577,
-      "end": 596,
+      "end": 594,
       "loc": {
         "start": {
           "line": 24,
@@ -2561,7 +2558,7 @@
         },
         "end": {
           "line": 24,
-          "column": 22
+          "column": 20
         }
       }
     },
@@ -2577,16 +2574,16 @@
         "postfix": false,
         "binop": null
       },
-      "start": 596,
-      "end": 597,
+      "start": 594,
+      "end": 595,
       "loc": {
         "start": {
           "line": 24,
-          "column": 22
+          "column": 20
         },
         "end": {
           "line": 24,
-          "column": 23
+          "column": 21
         }
       }
     },
@@ -2603,8 +2600,8 @@
         "binop": null,
         "updateContext": null
       },
-      "start": 598,
-      "end": 598,
+      "start": 596,
+      "end": 596,
       "loc": {
         "start": {
           "line": 25,

@@ -101,8 +101,7 @@
         "leadingComments": [
           {
             "type": "CommentBlock",
-            "value":
-              "\n * Copyright (c) 2017-present Muneeb Samuels. All Rights Reserved. See License.txt for license information.\n ",
+            "value": "\n * Copyright (c) 2017-present Muneeb Samuels. All Rights Reserved. See License.txt for license information.\n ",
             "start": 0,
             "end": 114,
             "loc": {
@@ -192,8 +191,7 @@
   "comments": [
     {
       "type": "CommentBlock",
-      "value":
-        "\n * Copyright (c) 2017-present Muneeb Samuels. All Rights Reserved. See License.txt for license information.\n ",
+      "value": "\n * Copyright (c) 2017-present Muneeb Samuels. All Rights Reserved. See License.txt for license information.\n ",
       "start": 0,
       "end": 114,
       "loc": {
@@ -211,8 +209,7 @@
   "tokens": [
     {
       "type": "CommentBlock",
-      "value":
-        "\n * Copyright (c) 2017-present Muneeb Samuels. All Rights Reserved. See License.txt for license information.\n ",
+      "value": "\n * Copyright (c) 2017-present Muneeb Samuels. All Rights Reserved. See License.txt for license information.\n ",
       "start": 0,
       "end": 114,
       "loc": {

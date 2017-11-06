@@ -167,8 +167,7 @@
         "leadingComments": [
           {
             "type": "CommentBlock",
-            "value":
-              "\n * Copyright (c) 2017-present Muneeb Samuels. All Rights Reserved. See License.txt for license information.\n ",
+            "value": "\n * Copyright (c) 2017-present Muneeb Samuels. All Rights Reserved. See License.txt for license information.\n ",
             "start": 0,
             "end": 114,
             "loc": {
@@ -1373,8 +1372,7 @@
                                                   },
                                                   "body": [
                                                     {
-                                                      "type":
-                                                        "ExpressionStatement",
+                                                      "type": "ExpressionStatement",
                                                       "start": 609,
                                                       "end": 619,
                                                       "loc": {
@@ -1388,8 +1386,7 @@
                                                         }
                                                       },
                                                       "expression": {
-                                                        "type":
-                                                          "CallExpression",
+                                                        "type": "CallExpression",
                                                         "start": 609,
                                                         "end": 619,
                                                         "loc": {
@@ -1415,15 +1412,13 @@
                                                               "line": 18,
                                                               "column": 14
                                                             },
-                                                            "identifierName":
-                                                              "emit"
+                                                            "identifierName": "emit"
                                                           },
                                                           "name": "emit"
                                                         },
                                                         "arguments": [
                                                           {
-                                                            "type":
-                                                              "Identifier",
+                                                            "type": "Identifier",
                                                             "start": 614,
                                                             "end": 618,
                                                             "loc": {
@@ -1435,8 +1430,7 @@
                                                                 "line": 18,
                                                                 "column": 19
                                                               },
-                                                              "identifierName":
-                                                                "user"
+                                                              "identifierName": "user"
                                                             },
                                                             "name": "user"
                                                           }
@@ -1462,8 +1456,7 @@
                                                   },
                                                   "body": [
                                                     {
-                                                      "type":
-                                                        "ExpressionStatement",
+                                                      "type": "ExpressionStatement",
                                                       "start": 647,
                                                       "end": 655,
                                                       "loc": {
@@ -1477,8 +1470,7 @@
                                                         }
                                                       },
                                                       "expression": {
-                                                        "type":
-                                                          "CallExpression",
+                                                        "type": "CallExpression",
                                                         "start": 647,
                                                         "end": 655,
                                                         "loc": {
@@ -1504,15 +1496,13 @@
                                                               "line": 20,
                                                               "column": 14
                                                             },
-                                                            "identifierName":
-                                                              "emit"
+                                                            "identifierName": "emit"
                                                           },
                                                           "name": "emit"
                                                         },
                                                         "arguments": [
                                                           {
-                                                            "type":
-                                                              "StringLiteral",
+                                                            "type": "StringLiteral",
                                                             "start": 652,
                                                             "end": 654,
                                                             "loc": {
@@ -2414,8 +2404,7 @@
                                               "line": 38,
                                               "column": 57
                                             },
-                                            "identifierName":
-                                              "confirmationResult"
+                                            "identifierName": "confirmationResult"
                                           },
                                           "name": "confirmationResult"
                                         },
@@ -3485,8 +3474,7 @@
                                                   "line": 50,
                                                   "column": 47
                                                 },
-                                                "identifierName":
-                                                  "confirmationSuccess"
+                                                "identifierName": "confirmationSuccess"
                                               },
                                               "name": "confirmationSuccess"
                                             },
@@ -3671,8 +3659,7 @@
                                               "line": 53,
                                               "column": 45
                                             },
-                                            "identifierName":
-                                              "confirmationFailure"
+                                            "identifierName": "confirmationFailure"
                                           },
                                           "name": "confirmationFailure"
                                         },
@@ -4761,8 +4748,7 @@
                                                         "line": 71,
                                                         "column": 45
                                                       },
-                                                      "identifierName":
-                                                        "authChannel"
+                                                      "identifierName": "authChannel"
                                                     },
                                                     "name": "authChannel"
                                                   }
@@ -4935,8 +4921,7 @@
                                                   },
                                                   "arguments": [
                                                     {
-                                                      "type":
-                                                        "ObjectExpression",
+                                                      "type": "ObjectExpression",
                                                       "start": 1983,
                                                       "end": 2037,
                                                       "loc": {
@@ -4951,8 +4936,7 @@
                                                       },
                                                       "properties": [
                                                         {
-                                                          "type":
-                                                            "ObjectProperty",
+                                                          "type": "ObjectProperty",
                                                           "start": 1985,
                                                           "end": 2012,
                                                           "loc": {
@@ -4969,8 +4953,7 @@
                                                           "shorthand": false,
                                                           "computed": false,
                                                           "key": {
-                                                            "type":
-                                                              "Identifier",
+                                                            "type": "Identifier",
                                                             "start": 1985,
                                                             "end": 1989,
                                                             "loc": {
@@ -4982,14 +4965,12 @@
                                                                 "line": 73,
                                                                 "column": 26
                                                               },
-                                                              "identifierName":
-                                                                "type"
+                                                              "identifierName": "type"
                                                             },
                                                             "name": "type"
                                                           },
                                                           "value": {
-                                                            "type":
-                                                              "MemberExpression",
+                                                            "type": "MemberExpression",
                                                             "start": 1991,
                                                             "end": 2012,
                                                             "loc": {
@@ -5003,8 +4984,7 @@
                                                               }
                                                             },
                                                             "object": {
-                                                              "type":
-                                                                "Identifier",
+                                                              "type": "Identifier",
                                                               "start": 1991,
                                                               "end": 2000,
                                                               "loc": {
@@ -5016,15 +4996,12 @@
                                                                   "line": 73,
                                                                   "column": 37
                                                                 },
-                                                                "identifierName":
-                                                                  "UserTypes"
+                                                                "identifierName": "UserTypes"
                                                               },
-                                                              "name":
-                                                                "UserTypes"
+                                                              "name": "UserTypes"
                                                             },
                                                             "property": {
-                                                              "type":
-                                                                "Identifier",
+                                                              "type": "Identifier",
                                                               "start": 2001,
                                                               "end": 2012,
                                                               "loc": {
@@ -5036,18 +5013,15 @@
                                                                   "line": 73,
                                                                   "column": 49
                                                                 },
-                                                                "identifierName":
-                                                                  "RECEIVED_ME"
+                                                                "identifierName": "RECEIVED_ME"
                                                               },
-                                                              "name":
-                                                                "RECEIVED_ME"
+                                                              "name": "RECEIVED_ME"
                                                             },
                                                             "computed": false
                                                           }
                                                         },
                                                         {
-                                                          "type":
-                                                            "ObjectProperty",
+                                                          "type": "ObjectProperty",
                                                           "start": 2014,
                                                           "end": 2035,
                                                           "loc": {
@@ -5064,8 +5038,7 @@
                                                           "shorthand": false,
                                                           "computed": false,
                                                           "key": {
-                                                            "type":
-                                                              "Identifier",
+                                                            "type": "Identifier",
                                                             "start": 2014,
                                                             "end": 2018,
                                                             "loc": {
@@ -5077,14 +5050,12 @@
                                                                 "line": 73,
                                                                 "column": 55
                                                               },
-                                                              "identifierName":
-                                                                "data"
+                                                              "identifierName": "data"
                                                             },
                                                             "name": "data"
                                                           },
                                                           "value": {
-                                                            "type":
-                                                              "CallExpression",
+                                                            "type": "CallExpression",
                                                             "start": 2020,
                                                             "end": 2035,
                                                             "loc": {
@@ -5098,8 +5069,7 @@
                                                               }
                                                             },
                                                             "callee": {
-                                                              "type":
-                                                                "MemberExpression",
+                                                              "type": "MemberExpression",
                                                               "start": 2020,
                                                               "end": 2033,
                                                               "loc": {
@@ -5113,8 +5083,7 @@
                                                                 }
                                                               },
                                                               "object": {
-                                                                "type":
-                                                                  "Identifier",
+                                                                "type": "Identifier",
                                                                 "start": 2020,
                                                                 "end": 2026,
                                                                 "loc": {
@@ -5126,14 +5095,12 @@
                                                                     "line": 73,
                                                                     "column": 63
                                                                   },
-                                                                  "identifierName":
-                                                                    "result"
+                                                                  "identifierName": "result"
                                                                 },
                                                                 "name": "result"
                                                               },
                                                               "property": {
-                                                                "type":
-                                                                  "Identifier",
+                                                                "type": "Identifier",
                                                                 "start": 2027,
                                                                 "end": 2033,
                                                                 "loc": {
@@ -5145,8 +5112,7 @@
                                                                     "line": 73,
                                                                     "column": 70
                                                                   },
-                                                                  "identifierName":
-                                                                    "toJSON"
+                                                                  "identifierName": "toJSON"
                                                                 },
                                                                 "name": "toJSON"
                                                               },
@@ -5237,8 +5203,7 @@
                                                         }
                                                       },
                                                       "callee": {
-                                                        "type":
-                                                          "MemberExpression",
+                                                        "type": "MemberExpression",
                                                         "start": 2059,
                                                         "end": 2093,
                                                         "loc": {
@@ -5264,8 +5229,7 @@
                                                               "line": 74,
                                                               "column": 31
                                                             },
-                                                            "identifierName":
-                                                              "UserActions"
+                                                            "identifierName": "UserActions"
                                                           },
                                                           "name": "UserActions"
                                                         },
@@ -5282,11 +5246,9 @@
                                                               "line": 74,
                                                               "column": 54
                                                             },
-                                                            "identifierName":
-                                                              "getSessionTokenSuccess"
+                                                            "identifierName": "getSessionTokenSuccess"
                                                           },
-                                                          "name":
-                                                            "getSessionTokenSuccess"
+                                                          "name": "getSessionTokenSuccess"
                                                         },
                                                         "computed": false
                                                       },
@@ -5390,8 +5352,7 @@
                                                         }
                                                       },
                                                       "callee": {
-                                                        "type":
-                                                          "MemberExpression",
+                                                        "type": "MemberExpression",
                                                         "start": 2134,
                                                         "end": 2168,
                                                         "loc": {
@@ -5417,8 +5378,7 @@
                                                               "line": 76,
                                                               "column": 31
                                                             },
-                                                            "identifierName":
-                                                              "UserActions"
+                                                            "identifierName": "UserActions"
                                                           },
                                                           "name": "UserActions"
                                                         },
@@ -5435,18 +5395,15 @@
                                                               "line": 76,
                                                               "column": 54
                                                             },
-                                                            "identifierName":
-                                                              "getSessionTokenFailure"
+                                                            "identifierName": "getSessionTokenFailure"
                                                           },
-                                                          "name":
-                                                            "getSessionTokenFailure"
+                                                          "name": "getSessionTokenFailure"
                                                         },
                                                         "computed": false
                                                       },
                                                       "arguments": [
                                                         {
-                                                          "type":
-                                                            "NewExpression",
+                                                          "type": "NewExpression",
                                                           "start": 2169,
                                                           "end": 2205,
                                                           "loc": {
@@ -5460,8 +5417,7 @@
                                                             }
                                                           },
                                                           "callee": {
-                                                            "type":
-                                                              "Identifier",
+                                                            "type": "Identifier",
                                                             "start": 2173,
                                                             "end": 2178,
                                                             "loc": {
@@ -5473,15 +5429,13 @@
                                                                 "line": 76,
                                                                 "column": 64
                                                               },
-                                                              "identifierName":
-                                                                "Error"
+                                                              "identifierName": "Error"
                                                             },
                                                             "name": "Error"
                                                           },
                                                           "arguments": [
                                                             {
-                                                              "type":
-                                                                "StringLiteral",
+                                                              "type": "StringLiteral",
                                                               "start": 2179,
                                                               "end": 2204,
                                                               "loc": {
@@ -5495,13 +5449,10 @@
                                                                 }
                                                               },
                                                               "extra": {
-                                                                "rawValue":
-                                                                  "Authentication required",
-                                                                "raw":
-                                                                  "'Authentication required'"
+                                                                "rawValue": "Authentication required",
+                                                                "raw": "'Authentication required'"
                                                               },
-                                                              "value":
-                                                                "Authentication required"
+                                                              "value": "Authentication required"
                                                             }
                                                           ]
                                                         }
@@ -5666,8 +5617,7 @@
                                                           "line": 79,
                                                           "column": 29
                                                         },
-                                                        "identifierName":
-                                                          "UserActions"
+                                                        "identifierName": "UserActions"
                                                       },
                                                       "name": "UserActions"
                                                     },
@@ -5684,11 +5634,9 @@
                                                           "line": 79,
                                                           "column": 52
                                                         },
-                                                        "identifierName":
-                                                          "getSessionTokenFailure"
+                                                        "identifierName": "getSessionTokenFailure"
                                                       },
-                                                      "name":
-                                                        "getSessionTokenFailure"
+                                                      "name": "getSessionTokenFailure"
                                                     },
                                                     "computed": false
                                                   },
@@ -5706,8 +5654,7 @@
                                                           "line": 79,
                                                           "column": 58
                                                         },
-                                                        "identifierName":
-                                                          "error"
+                                                        "identifierName": "error"
                                                       },
                                                       "name": "error"
                                                     }
@@ -5873,13 +5820,10 @@
                                       }
                                     },
                                     "extra": {
-                                      "rawValue":
-                                        "unable to create auth subscription",
-                                      "raw":
-                                        "'unable to create auth subscription'"
+                                      "rawValue": "unable to create auth subscription",
+                                      "raw": "'unable to create auth subscription'"
                                     },
-                                    "value":
-                                      "unable to create auth subscription"
+                                    "value": "unable to create auth subscription"
                                   },
                                   {
                                     "type": "Identifier",
@@ -5904,8 +5848,7 @@
                               "leadingComments": [
                                 {
                                   "type": "CommentLine",
-                                  "value":
-                                    " eslint-disable-next-line no-console",
+                                  "value": " eslint-disable-next-line no-console",
                                   "start": 2337,
                                   "end": 2375,
                                   "loc": {
@@ -5945,8 +5888,7 @@
   "comments": [
     {
       "type": "CommentBlock",
-      "value":
-        "\n * Copyright (c) 2017-present Muneeb Samuels. All Rights Reserved. See License.txt for license information.\n ",
+      "value": "\n * Copyright (c) 2017-present Muneeb Samuels. All Rights Reserved. See License.txt for license information.\n ",
       "start": 0,
       "end": 114,
       "loc": {
@@ -5980,8 +5922,7 @@
   "tokens": [
     {
       "type": "CommentBlock",
-      "value":
-        "\n * Copyright (c) 2017-present Muneeb Samuels. All Rights Reserved. See License.txt for license information.\n ",
+      "value": "\n * Copyright (c) 2017-present Muneeb Samuels. All Rights Reserved. See License.txt for license information.\n ",
       "start": 0,
       "end": 114,
       "loc": {

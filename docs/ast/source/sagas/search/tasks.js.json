@@ -265,8 +265,7 @@
         "leadingComments": [
           {
             "type": "CommentBlock",
-            "value":
-              "\n * Copyright (c) 2017-present Muneeb Samuels. All Rights Reserved. See License.txt for license information.\n ",
+            "value": "\n * Copyright (c) 2017-present Muneeb Samuels. All Rights Reserved. See License.txt for license information.\n ",
             "start": 0,
             "end": 114,
             "loc": {
@@ -1013,8 +1012,7 @@
                                                   "line": 14,
                                                   "column": 29
                                                 },
-                                                "identifierName":
-                                                  "SearchActions"
+                                                "identifierName": "SearchActions"
                                               },
                                               "name": "SearchActions"
                                             },
@@ -1031,8 +1029,7 @@
                                                   "line": 14,
                                                   "column": 48
                                                 },
-                                                "identifierName":
-                                                  "clearSearchResults"
+                                                "identifierName": "clearSearchResults"
                                               },
                                               "name": "clearSearchResults"
                                             },
@@ -1166,8 +1163,7 @@
                                                   "line": 15,
                                                   "column": 31
                                                 },
-                                                "identifierName":
-                                                  "CustomerActions"
+                                                "identifierName": "CustomerActions"
                                               },
                                               "name": "CustomerActions"
                                             },
@@ -1184,8 +1180,7 @@
                                                   "line": 15,
                                                   "column": 48
                                                 },
-                                                "identifierName":
-                                                  "customersRequest"
+                                                "identifierName": "customersRequest"
                                               },
                                               "name": "customersRequest"
                                             },
@@ -1600,8 +1595,7 @@
                                                     "line": 19,
                                                     "column": 47
                                                   },
-                                                  "identifierName":
-                                                    "SearchActions"
+                                                  "identifierName": "SearchActions"
                                                 },
                                                 "name": "SearchActions"
                                               },
@@ -1835,8 +1829,7 @@
                                                   },
                                                   "arguments": [
                                                     {
-                                                      "type":
-                                                        "MemberExpression",
+                                                      "type": "MemberExpression",
                                                       "start": 764,
                                                       "end": 777,
                                                       "loc": {
@@ -1862,8 +1855,7 @@
                                                             "line": 20,
                                                             "column": 47
                                                           },
-                                                          "identifierName":
-                                                            "response"
+                                                          "identifierName": "response"
                                                         },
                                                         "name": "response"
                                                       },
@@ -1880,16 +1872,14 @@
                                                             "line": 20,
                                                             "column": 52
                                                           },
-                                                          "identifierName":
-                                                            "hits"
+                                                          "identifierName": "hits"
                                                         },
                                                         "name": "hits"
                                                       },
                                                       "computed": false
                                                     },
                                                     {
-                                                      "type":
-                                                        "ArrowFunctionExpression",
+                                                      "type": "ArrowFunctionExpression",
                                                       "start": 779,
                                                       "end": 870,
                                                       "loc": {
@@ -1920,15 +1910,13 @@
                                                               "line": 20,
                                                               "column": 58
                                                             },
-                                                            "identifierName":
-                                                              "hit"
+                                                            "identifierName": "hit"
                                                           },
                                                           "name": "hit"
                                                         }
                                                       ],
                                                       "body": {
-                                                        "type":
-                                                          "BlockStatement",
+                                                        "type": "BlockStatement",
                                                         "start": 788,
                                                         "end": 870,
                                                         "loc": {
@@ -1943,8 +1931,7 @@
                                                         },
                                                         "body": [
                                                           {
-                                                            "type":
-                                                              "ReturnStatement",
+                                                            "type": "ReturnStatement",
                                                             "start": 835,
                                                             "end": 862,
                                                             "loc": {
@@ -1958,8 +1945,7 @@
                                                               }
                                                             },
                                                             "argument": {
-                                                              "type":
-                                                                "BinaryExpression",
+                                                              "type": "BinaryExpression",
                                                               "start": 842,
                                                               "end": 862,
                                                               "loc": {
@@ -1973,8 +1959,7 @@
                                                                 }
                                                               },
                                                               "left": {
-                                                                "type":
-                                                                  "MemberExpression",
+                                                                "type": "MemberExpression",
                                                                 "start": 842,
                                                                 "end": 855,
                                                                 "loc": {
@@ -1988,8 +1973,7 @@
                                                                   }
                                                                 },
                                                                 "object": {
-                                                                  "type":
-                                                                    "Identifier",
+                                                                  "type": "Identifier",
                                                                   "start": 842,
                                                                   "end": 845,
                                                                   "loc": {
@@ -2001,15 +1985,13 @@
                                                                       "line": 22,
                                                                       "column": 18
                                                                     },
-                                                                    "identifierName":
-                                                                      "hit"
+                                                                    "identifierName": "hit"
                                                                   },
                                                                   "name": "hit",
                                                                   "leadingComments": null
                                                                 },
                                                                 "property": {
-                                                                  "type":
-                                                                    "Identifier",
+                                                                  "type": "Identifier",
                                                                   "start": 846,
                                                                   "end": 855,
                                                                   "loc": {
@@ -2021,19 +2003,16 @@
                                                                       "line": 22,
                                                                       "column": 28
                                                                     },
-                                                                    "identifierName":
-                                                                      "createdBy"
+                                                                    "identifierName": "createdBy"
                                                                   },
-                                                                  "name":
-                                                                    "createdBy"
+                                                                  "name": "createdBy"
                                                                 },
                                                                 "computed": false,
                                                                 "leadingComments": null
                                                               },
                                                               "operator": "===",
                                                               "right": {
-                                                                "type":
-                                                                  "Identifier",
+                                                                "type": "Identifier",
                                                                 "start": 860,
                                                                 "end": 862,
                                                                 "loc": {
@@ -2045,8 +2024,7 @@
                                                                     "line": 22,
                                                                     "column": 35
                                                                   },
-                                                                  "identifierName":
-                                                                    "id"
+                                                                  "identifierName": "id"
                                                                 },
                                                                 "name": "id"
                                                               },
@@ -2054,10 +2032,8 @@
                                                             },
                                                             "leadingComments": [
                                                               {
-                                                                "type":
-                                                                  "CommentLine",
-                                                                "value":
-                                                                  " filter our search results",
+                                                                "type": "CommentLine",
+                                                                "value": " filter our search results",
                                                                 "start": 798,
                                                                 "end": 826,
                                                                 "loc": {
@@ -2100,8 +2076,7 @@
                                               },
                                               "arguments": [
                                                 {
-                                                  "type":
-                                                    "ArrowFunctionExpression",
+                                                  "type": "ArrowFunctionExpression",
                                                   "start": 876,
                                                   "end": 1009,
                                                   "loc": {
@@ -2153,8 +2128,7 @@
                                                     },
                                                     "body": [
                                                       {
-                                                        "type":
-                                                          "ReturnStatement",
+                                                        "type": "ReturnStatement",
                                                         "start": 949,
                                                         "end": 1001,
                                                         "loc": {
@@ -2168,8 +2142,7 @@
                                                           }
                                                         },
                                                         "argument": {
-                                                          "type":
-                                                            "CallExpression",
+                                                          "type": "CallExpression",
                                                           "start": 956,
                                                           "end": 1001,
                                                           "loc": {
@@ -2183,8 +2156,7 @@
                                                             }
                                                           },
                                                           "callee": {
-                                                            "type":
-                                                              "MemberExpression",
+                                                            "type": "MemberExpression",
                                                             "start": 956,
                                                             "end": 987,
                                                             "loc": {
@@ -2198,8 +2170,7 @@
                                                               }
                                                             },
                                                             "object": {
-                                                              "type":
-                                                                "Identifier",
+                                                              "type": "Identifier",
                                                               "start": 956,
                                                               "end": 971,
                                                               "loc": {
@@ -2211,16 +2182,13 @@
                                                                   "line": 25,
                                                                   "column": 30
                                                                 },
-                                                                "identifierName":
-                                                                  "CustomerActions"
+                                                                "identifierName": "CustomerActions"
                                                               },
-                                                              "name":
-                                                                "CustomerActions",
+                                                              "name": "CustomerActions",
                                                               "leadingComments": null
                                                             },
                                                             "property": {
-                                                              "type":
-                                                                "Identifier",
+                                                              "type": "Identifier",
                                                               "start": 972,
                                                               "end": 987,
                                                               "loc": {
@@ -2232,19 +2200,16 @@
                                                                   "line": 25,
                                                                   "column": 46
                                                                 },
-                                                                "identifierName":
-                                                                  "getCustomerById"
+                                                                "identifierName": "getCustomerById"
                                                               },
-                                                              "name":
-                                                                "getCustomerById"
+                                                              "name": "getCustomerById"
                                                             },
                                                             "computed": false,
                                                             "leadingComments": null
                                                           },
                                                           "arguments": [
                                                             {
-                                                              "type":
-                                                                "MemberExpression",
+                                                              "type": "MemberExpression",
                                                               "start": 988,
                                                               "end": 1000,
                                                               "loc": {
@@ -2258,8 +2223,7 @@
                                                                 }
                                                               },
                                                               "object": {
-                                                                "type":
-                                                                  "Identifier",
+                                                                "type": "Identifier",
                                                                 "start": 988,
                                                                 "end": 991,
                                                                 "loc": {
@@ -2271,14 +2235,12 @@
                                                                     "line": 25,
                                                                     "column": 50
                                                                   },
-                                                                  "identifierName":
-                                                                    "hit"
+                                                                  "identifierName": "hit"
                                                                 },
                                                                 "name": "hit"
                                                               },
                                                               "property": {
-                                                                "type":
-                                                                  "Identifier",
+                                                                "type": "Identifier",
                                                                 "start": 992,
                                                                 "end": 1000,
                                                                 "loc": {
@@ -2290,11 +2252,9 @@
                                                                     "line": 25,
                                                                     "column": 59
                                                                   },
-                                                                  "identifierName":
-                                                                    "objectID"
+                                                                  "identifierName": "objectID"
                                                                 },
-                                                                "name":
-                                                                  "objectID"
+                                                                "name": "objectID"
                                                               },
                                                               "computed": false
                                                             }
@@ -2303,10 +2263,8 @@
                                                         },
                                                         "leadingComments": [
                                                           {
-                                                            "type":
-                                                              "CommentLine",
-                                                            "value":
-                                                              " get the document from the firestore cache.",
+                                                            "type": "CommentLine",
+                                                            "value": " get the document from the firestore cache.",
                                                             "start": 895,
                                                             "end": 940,
                                                             "loc": {
@@ -2472,8 +2430,7 @@
                                                       "line": 27,
                                                       "column": 35
                                                     },
-                                                    "identifierName":
-                                                      "SearchTypes"
+                                                    "identifierName": "SearchTypes"
                                                   },
                                                   "name": "SearchTypes"
                                                 },
@@ -2490,11 +2447,9 @@
                                                       "line": 27,
                                                       "column": 61
                                                     },
-                                                    "identifierName":
-                                                      "RECEIVED_SEARCH_CUSTOMERS"
+                                                    "identifierName": "RECEIVED_SEARCH_CUSTOMERS"
                                                   },
-                                                  "name":
-                                                    "RECEIVED_SEARCH_CUSTOMERS"
+                                                  "name": "RECEIVED_SEARCH_CUSTOMERS"
                                                 },
                                                 "computed": false
                                               }
@@ -2659,8 +2614,7 @@
                                                   "line": 28,
                                                   "column": 29
                                                 },
-                                                "identifierName":
-                                                  "SearchActions"
+                                                "identifierName": "SearchActions"
                                               },
                                               "name": "SearchActions"
                                             },
@@ -2677,8 +2631,7 @@
                                                   "line": 28,
                                                   "column": 52
                                                 },
-                                                "identifierName":
-                                                  "searchCustomersSuccess"
+                                                "identifierName": "searchCustomersSuccess"
                                               },
                                               "name": "searchCustomersSuccess"
                                             },
@@ -2862,8 +2815,7 @@
                                               "line": 31,
                                               "column": 50
                                             },
-                                            "identifierName":
-                                              "searchCustomersFailure"
+                                            "identifierName": "searchCustomersFailure"
                                           },
                                           "name": "searchCustomersFailure"
                                         },
@@ -2917,8 +2869,7 @@
   "comments": [
     {
       "type": "CommentBlock",
-      "value":
-        "\n * Copyright (c) 2017-present Muneeb Samuels. All Rights Reserved. See License.txt for license information.\n ",
+      "value": "\n * Copyright (c) 2017-present Muneeb Samuels. All Rights Reserved. See License.txt for license information.\n ",
       "start": 0,
       "end": 114,
       "loc": {
@@ -2984,8 +2935,7 @@
   "tokens": [
     {
       "type": "CommentBlock",
-      "value":
-        "\n * Copyright (c) 2017-present Muneeb Samuels. All Rights Reserved. See License.txt for license information.\n ",
+      "value": "\n * Copyright (c) 2017-present Muneeb Samuels. All Rights Reserved. See License.txt for license information.\n ",
       "start": 0,
       "end": 114,
       "loc": {

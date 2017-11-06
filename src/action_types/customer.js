@@ -21,4 +21,4 @@ export default keyMirror({
   RECEIVED_CUSTOMER: null,
   DELETED_CUSTOMER: null,
   DELETED_CUSTOMERS: null
-}, '@@redblade-redux/')
+}, '@@altair-redux/')

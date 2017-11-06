@@ -265,8 +265,7 @@
         "leadingComments": [
           {
             "type": "CommentBlock",
-            "value":
-              "\n * Copyright (c) 2017-present Muneeb Samuels. All Rights Reserved. See License.txt for license information.\n ",
+            "value": "\n * Copyright (c) 2017-present Muneeb Samuels. All Rights Reserved. See License.txt for license information.\n ",
             "start": 0,
             "end": 114,
             "loc": {
@@ -1753,8 +1752,7 @@
                               "leadingComments": [
                                 {
                                   "type": "CommentLine",
-                                  "value":
-                                    " eslint-disable-next-line no-console",
+                                  "value": " eslint-disable-next-line no-console",
                                   "start": 900,
                                   "end": 938,
                                   "loc": {
@@ -2316,8 +2314,7 @@
         "trailingComments": [
           {
             "type": "CommentBlock",
-            "value":
-              "*\n * ## configureStore\n * @param {Object} storage - redux-persist storage\n * @param {Object} firebaseConfig - firebase configuration\n * @param {Object} rrfConfig - react-redux-firebase config\n * @param {Object} algoliaConfig - optional algolia configuration\n * @param {Object} appReducer - optional appReducer\n * @return {Object} store\n ",
+            "value": "*\n * ## configureStore\n * @param {Object} storage - redux-persist storage\n * @param {Object} firebaseConfig - firebase configuration\n * @param {Object} rrfConfig - react-redux-firebase config\n * @param {Object} algoliaConfig - optional algolia configuration\n * @param {Object} appReducer - optional appReducer\n * @return {Object} store\n ",
             "start": 1259,
             "end": 1600,
             "loc": {
@@ -3972,8 +3969,7 @@
           "leadingComments": [
             {
               "type": "CommentBlock",
-              "value":
-                "*\n * ## configureStore\n * @param {Object} storage - redux-persist storage\n * @param {Object} firebaseConfig - firebase configuration\n * @param {Object} rrfConfig - react-redux-firebase config\n * @param {Object} algoliaConfig - optional algolia configuration\n * @param {Object} appReducer - optional appReducer\n * @return {Object} store\n ",
+              "value": "*\n * ## configureStore\n * @param {Object} storage - redux-persist storage\n * @param {Object} firebaseConfig - firebase configuration\n * @param {Object} rrfConfig - react-redux-firebase config\n * @param {Object} algoliaConfig - optional algolia configuration\n * @param {Object} appReducer - optional appReducer\n * @return {Object} store\n ",
               "start": 1259,
               "end": 1600,
               "loc": {
@@ -3993,8 +3989,7 @@
         "leadingComments": [
           {
             "type": "CommentBlock",
-            "value":
-              "*\n * ## configureStore\n * @param {Object} storage - redux-persist storage\n * @param {Object} firebaseConfig - firebase configuration\n * @param {Object} rrfConfig - react-redux-firebase config\n * @param {Object} algoliaConfig - optional algolia configuration\n * @param {Object} appReducer - optional appReducer\n * @return {Object} store\n ",
+            "value": "*\n * ## configureStore\n * @param {Object} storage - redux-persist storage\n * @param {Object} firebaseConfig - firebase configuration\n * @param {Object} rrfConfig - react-redux-firebase config\n * @param {Object} algoliaConfig - optional algolia configuration\n * @param {Object} appReducer - optional appReducer\n * @return {Object} store\n ",
             "start": 1259,
             "end": 1600,
             "loc": {
@@ -4396,8 +4391,7 @@
                                 "leadingComments": [
                                   {
                                     "type": "CommentLine",
-                                    "value":
-                                      " eslint-disable-next-line no-console",
+                                    "value": " eslint-disable-next-line no-console",
                                     "start": 900,
                                     "end": 938,
                                     "loc": {
@@ -4475,8 +4469,7 @@
   "comments": [
     {
       "type": "CommentBlock",
-      "value":
-        "\n * Copyright (c) 2017-present Muneeb Samuels. All Rights Reserved. See License.txt for license information.\n ",
+      "value": "\n * Copyright (c) 2017-present Muneeb Samuels. All Rights Reserved. See License.txt for license information.\n ",
       "start": 0,
       "end": 114,
       "loc": {
@@ -4540,8 +4533,7 @@
     },
     {
       "type": "CommentBlock",
-      "value":
-        "*\n * ## configureStore\n * @param {Object} storage - redux-persist storage\n * @param {Object} firebaseConfig - firebase configuration\n * @param {Object} rrfConfig - react-redux-firebase config\n * @param {Object} algoliaConfig - optional algolia configuration\n * @param {Object} appReducer - optional appReducer\n * @return {Object} store\n ",
+      "value": "*\n * ## configureStore\n * @param {Object} storage - redux-persist storage\n * @param {Object} firebaseConfig - firebase configuration\n * @param {Object} rrfConfig - react-redux-firebase config\n * @param {Object} algoliaConfig - optional algolia configuration\n * @param {Object} appReducer - optional appReducer\n * @return {Object} store\n ",
       "start": 1259,
       "end": 1600,
       "loc": {
@@ -4591,8 +4583,7 @@
   "tokens": [
     {
       "type": "CommentBlock",
-      "value":
-        "\n * Copyright (c) 2017-present Muneeb Samuels. All Rights Reserved. See License.txt for license information.\n ",
+      "value": "\n * Copyright (c) 2017-present Muneeb Samuels. All Rights Reserved. See License.txt for license information.\n ",
       "start": 0,
       "end": 114,
       "loc": {
@@ -8623,8 +8614,7 @@
     },
     {
       "type": "CommentBlock",
-      "value":
-        "*\n * ## configureStore\n * @param {Object} storage - redux-persist storage\n * @param {Object} firebaseConfig - firebase configuration\n * @param {Object} rrfConfig - react-redux-firebase config\n * @param {Object} algoliaConfig - optional algolia configuration\n * @param {Object} appReducer - optional appReducer\n * @return {Object} store\n ",
+      "value": "*\n * ## configureStore\n * @param {Object} storage - redux-persist storage\n * @param {Object} firebaseConfig - firebase configuration\n * @param {Object} rrfConfig - react-redux-firebase config\n * @param {Object} algoliaConfig - optional algolia configuration\n * @param {Object} appReducer - optional appReducer\n * @return {Object} store\n ",
       "start": 1259,
       "end": 1600,
       "loc": {

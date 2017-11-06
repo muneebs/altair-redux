@@ -9,4 +9,4 @@ export default keyMirror({
   APP_INIT_FINISHED: null,
   APP_LOGIN_ROOT: null,
   APP_AUTHENTICATED_ROOT: null
-}, '@@redblade-redux/')
+}, '@@altair-redux/')

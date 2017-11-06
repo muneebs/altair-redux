@@ -118,8 +118,7 @@
         "leadingComments": [
           {
             "type": "CommentBlock",
-            "value":
-              "\n * Copyright (c) 2017-present Muneeb Samuels. All Rights Reserved. See License.txt for license information.\n ",
+            "value": "\n * Copyright (c) 2017-present Muneeb Samuels. All Rights Reserved. See License.txt for license information.\n ",
             "start": 0,
             "end": 114,
             "loc": {
@@ -360,8 +359,7 @@
         "trailingComments": [
           {
             "type": "CommentBlock",
-            "value":
-              "*\n *\n * @param {Object} state\n * @param {Action} action\n * @returns {{status}|{status, error}|*}\n ",
+            "value": "*\n *\n * @param {Object} state\n * @param {Action} action\n * @returns {{status}|{status, error}|*}\n ",
             "start": 261,
             "end": 363,
             "loc": {
@@ -751,8 +749,7 @@
         "leadingComments": [
           {
             "type": "CommentBlock",
-            "value":
-              "*\n *\n * @param {Object} state\n * @param {Action} action\n * @returns {{status}|{status, error}|*}\n ",
+            "value": "*\n *\n * @param {Object} state\n * @param {Action} action\n * @returns {{status}|{status, error}|*}\n ",
             "start": 261,
             "end": 363,
             "loc": {
@@ -770,8 +767,7 @@
         "trailingComments": [
           {
             "type": "CommentBlock",
-            "value":
-              "*\n *\n * @param {Object} state\n * @param {Action} action\n * @returns {{status}|{status, error}|*}\n ",
+            "value": "*\n *\n * @param {Object} state\n * @param {Action} action\n * @returns {{status}|{status, error}|*}\n ",
             "start": 561,
             "end": 663,
             "loc": {
@@ -1161,8 +1157,7 @@
         "leadingComments": [
           {
             "type": "CommentBlock",
-            "value":
-              "*\n *\n * @param {Object} state\n * @param {Action} action\n * @returns {{status}|{status, error}|*}\n ",
+            "value": "*\n *\n * @param {Object} state\n * @param {Action} action\n * @returns {{status}|{status, error}|*}\n ",
             "start": 561,
             "end": 663,
             "loc": {
@@ -1180,8 +1175,7 @@
         "trailingComments": [
           {
             "type": "CommentBlock",
-            "value":
-              "*\n *\n * @param {Object} state\n * @param {Action} action\n * @returns {{status}|{status, error}|*}\n ",
+            "value": "*\n *\n * @param {Object} state\n * @param {Action} action\n * @returns {{status}|{status, error}|*}\n ",
             "start": 895,
             "end": 997,
             "loc": {
@@ -1570,8 +1564,7 @@
         "leadingComments": [
           {
             "type": "CommentBlock",
-            "value":
-              "*\n *\n * @param {Object} state\n * @param {Action} action\n * @returns {{status}|{status, error}|*}\n ",
+            "value": "*\n *\n * @param {Object} state\n * @param {Action} action\n * @returns {{status}|{status, error}|*}\n ",
             "start": 895,
             "end": 997,
             "loc": {
@@ -1826,8 +1819,7 @@
   "comments": [
     {
       "type": "CommentBlock",
-      "value":
-        "\n * Copyright (c) 2017-present Muneeb Samuels. All Rights Reserved. See License.txt for license information.\n ",
+      "value": "\n * Copyright (c) 2017-present Muneeb Samuels. All Rights Reserved. See License.txt for license information.\n ",
       "start": 0,
       "end": 114,
       "loc": {
@@ -1843,8 +1835,7 @@
     },
     {
       "type": "CommentBlock",
-      "value":
-        "*\n *\n * @param {Object} state\n * @param {Action} action\n * @returns {{status}|{status, error}|*}\n ",
+      "value": "*\n *\n * @param {Object} state\n * @param {Action} action\n * @returns {{status}|{status, error}|*}\n ",
       "start": 261,
       "end": 363,
       "loc": {
@@ -1860,8 +1851,7 @@
     },
     {
       "type": "CommentBlock",
-      "value":
-        "*\n *\n * @param {Object} state\n * @param {Action} action\n * @returns {{status}|{status, error}|*}\n ",
+      "value": "*\n *\n * @param {Object} state\n * @param {Action} action\n * @returns {{status}|{status, error}|*}\n ",
       "start": 561,
       "end": 663,
       "loc": {
@@ -1877,8 +1867,7 @@
     },
     {
       "type": "CommentBlock",
-      "value":
-        "*\n *\n * @param {Object} state\n * @param {Action} action\n * @returns {{status}|{status, error}|*}\n ",
+      "value": "*\n *\n * @param {Object} state\n * @param {Action} action\n * @returns {{status}|{status, error}|*}\n ",
       "start": 895,
       "end": 997,
       "loc": {
@@ -1896,8 +1885,7 @@
   "tokens": [
     {
       "type": "CommentBlock",
-      "value":
-        "\n * Copyright (c) 2017-present Muneeb Samuels. All Rights Reserved. See License.txt for license information.\n ",
+      "value": "\n * Copyright (c) 2017-present Muneeb Samuels. All Rights Reserved. See License.txt for license information.\n ",
       "start": 0,
       "end": 114,
       "loc": {
@@ -2436,8 +2424,7 @@
     },
     {
       "type": "CommentBlock",
-      "value":
-        "*\n *\n * @param {Object} state\n * @param {Action} action\n * @returns {{status}|{status, error}|*}\n ",
+      "value": "*\n *\n * @param {Object} state\n * @param {Action} action\n * @returns {{status}|{status, error}|*}\n ",
       "start": 261,
       "end": 363,
       "loc": {
@@ -3281,8 +3268,7 @@
     },
     {
       "type": "CommentBlock",
-      "value":
-        "*\n *\n * @param {Object} state\n * @param {Action} action\n * @returns {{status}|{status, error}|*}\n ",
+      "value": "*\n *\n * @param {Object} state\n * @param {Action} action\n * @returns {{status}|{status, error}|*}\n ",
       "start": 561,
       "end": 663,
       "loc": {
@@ -4126,8 +4112,7 @@
     },
     {
       "type": "CommentBlock",
-      "value":
-        "*\n *\n * @param {Object} state\n * @param {Action} action\n * @returns {{status}|{status, error}|*}\n ",
+      "value": "*\n *\n * @param {Object} state\n * @param {Action} action\n * @returns {{status}|{status, error}|*}\n ",
       "start": 895,
       "end": 997,
       "loc": {
