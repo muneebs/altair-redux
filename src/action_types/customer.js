@@ -5,5 +5,20 @@
 import keyMirror from 'utils/key_mirror'
 
 export default keyMirror({
-  CREATE_CUSTOMER_REQUEST: null
-}, '@@redblade/')
+  CREATE_CUSTOMER_REQUEST: null,
+  CREATE_CUSTOMER_SUCCESS: null,
+  CREATE_CUSTOMER_FAILURE: null,
+
+  DELETE_CUSTOMER_REQUEST: null,
+  DELETE_CUSTOMER_SUCCESS: null,
+  DELETE_CUSTOMER_FAILURE: null,
+
+  CUSTOMERS_REQUEST: null,
+  CUSTOMERS_SUCCESS: null,
+  CUSTOMERS_FAILURE: null,
+
+  RECEIVED_CUSTOMERS: null,
+  RECEIVED_CUSTOMER: null,
+  DELETED_CUSTOMER: null,
+  DELETED_CUSTOMERS: null
+}, '@@redblade-redux/')
