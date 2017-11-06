@@ -11,6 +11,7 @@ Altair is a simple customer management application I built as a coding test for 
 - [Firebase](https://firebase.google.com) - a realtime database for web/mobile applications created by Google Inc.
 - [Algolia Search](https://algolia.com) - used to index our firebase data store and to provide fulltext search.
 - [NodeJS](https://www.nodejs.org) (8.7.0)
+- [Yarn](https://yarnpkg.com) or [NPM](https://www.npmjs.com/)
 
 
 
