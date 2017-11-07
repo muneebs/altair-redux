@@ -12,7 +12,7 @@ const config = {
     ]
   },
   output: {
-    library: 'RedbladeRedux',
+    library: 'AltairRedux',
     libraryTarget: 'umd'
   },
   externals: {

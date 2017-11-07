@@ -57,6 +57,7 @@
 <li><a href="https://firebase.google.com">Firebase</a> - a realtime database for web/mobile applications created by Google Inc.</li>
 <li><a href="https://algolia.com">Algolia Search</a> - used to index our firebase data store and to provide fulltext search.</li>
 <li><a href="https://www.nodejs.org">NodeJS</a> (8.7.0)</li>
+<li><a href="https://yarnpkg.com">Yarn</a> or <a href="https://www.npmjs.com/">NPM</a></li>
 </ul>
 <h1 id="usage">Usage</h1><h3 id="web-usage">Web usage</h3><p>To hook up an application to the altair-redux store:</p>
 <pre><code><code class="source-code prettyprint">import { configureStore } from &apos;altair-redux&apos;;</code>
@@ -88,7 +89,7 @@ const config = {
     enableRedirectHandling : false,
     userProfile : &apos;users&apos;,
     useFirestoreForProfile : true
-}, { appId: &apos;ALGOLIA_APP_ID&apos; });</code>
+}, { appId: &apos;ALGOLIA_APP_ID&apos;, searchKey: &apos;ALGOLIA_SEARCH_KEY&apos; });</code>
 </code></pre></div>
 </div>
 
