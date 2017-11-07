@@ -5,14 +5,13 @@ The project purpose is to demonstrate how redux can be used to consolidate an ap
 
 [Redux](http://redux.js.org/docs/introduction/) is the backbone for this project and many of the design decisions and patterns stem from it.
 
-Altair is a simple customer management application I built as a coding test for [Redblade Software](http://www.redblade.io).
+[Altair](https://github.com/muneebs/altair) is a simple customer management application I built as a coding test for [Redblade Software](http://www.redblade.io).
 
 # Requirements
 - [Firebase](https://firebase.google.com) - a realtime database for web/mobile applications created by Google Inc.
 - [Algolia Search](https://algolia.com) - used to index our firebase data store and to provide fulltext search.
 - [NodeJS](https://www.nodejs.org) (8.7.0)
 - [Yarn](https://yarnpkg.com) or [NPM](https://www.npmjs.com/)
-
 
 
 # Usage
