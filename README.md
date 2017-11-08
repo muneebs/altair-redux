@@ -1,4 +1,4 @@
-![logo](./assets/logo.png)
+![logo](https://rawgit.com/muneebs/altair-redux/master/assets/logo.svg)
 # Altair Redux
 
 The project purpose is to demonstrate how redux can be used to consolidate an apps storage, utilities and logic between mobile clients (react-native) and web clients (react).
