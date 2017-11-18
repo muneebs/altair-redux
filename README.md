@@ -3,7 +3,7 @@
 
 The project purpose is to demonstrate how redux can be used to consolidate an apps storage, utilities and logic between mobile clients (react-native) and web clients (react).
 
-[Redux](http://redux.js.org/docs/introduction/) is the backbone for this project and many of the design decisions and patterns stem from it.
+[Redux](http://redux.js.org/docs/introduction/) and [Redux Saga](https://github.com/redux-saga/redux-saga) is the backbone for this project and many of the design decisions and patterns stem from it.
 
 [Altair](https://github.com/muneebs/altair) is a simple customer management application I built as a coding test for [Redblade Software](http://www.redblade.io).
 
