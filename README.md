@@ -5,7 +5,7 @@ The project purpose is to demonstrate how redux can be used to consolidate an ap
 
 [Redux](http://redux.js.org/docs/introduction/) and [Redux Saga](https://github.com/redux-saga/redux-saga) is the backbone for this project and many of the design decisions and patterns stem from it.
 
-[Altair](https://github.com/muneebs/altair) is a simple customer management application I built as a coding test for [Redblade Software](http://www.redblade.io).
+[Altair](https://github.com/muneebs/altair) is a simple customer management application I built as a coding test.
 
 # Requirements
 - [Firebase](https://firebase.google.com) - a realtime database for web/mobile applications created by Google Inc.
